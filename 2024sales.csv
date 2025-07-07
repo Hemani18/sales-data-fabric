@@ -1,0 +1,501 @@
+Continent,Country,State,Address,Zip Code,Product Name,Product Category,Product Subcategory,Order Date,Delivery Date,Cost,Unit Price,Quantity,First Name,Last Name,Email,Phone,Store Name
+North America,USA,Texas,47264 Danielle Manors Apt. 212,07509,Chair - Two,Furniture,Chair,2024-01-31,2024-02-03,1185.52,481.61,3,James,King,jeremy59@hotmail.com,(807)852-5482x4218,Lane LLC
+Asia,China,State1,06445 Pearson Junction Apt. 311,18843,Table - Run,Furniture,Table,2024-03-31,2024-04-10,285.78,73.73,5,Sheryl,Moore,kayla97@hotmail.com,+1-177-633-4272x038,"Nguyen, King and Robles"
+Europe,Germany,Berlin,801 Rivers Views,05967,Couch - Nothing,Furniture,Couch,2024-05-27,2024-05-31,59.44,85.31,1,Jonathan,Espinoza,hughesvirginia@nguyen.net,(493)534-0018,"Jackson, Jones and Wells"
+Asia,Japan,State2,5244 Rangel Lake,34796,Couch - Authority,Furniture,Couch,2024-06-02,2024-06-12,222.78,45.71,6,Jose,Brown,haley79@robinson.com,+1-539-128-7884x8699,Wells-Mitchell
+North America,USA,California,5792 Garcia Villages,59406,Shirt - Particularly,Clothing,Shirt,2024-06-14,2024-06-24,488.2,213.81,3,Erin,King,patrickmichelle@fernandez.com,238-397-2833x912,"Rose, Frank and Dyer"
+Asia,China,State1,88098 Gary Crossing,06370,Tablet - Budget,Electronics,Tablet,2024-07-13,2024-07-20,745.89,186.79,6,Lisa,Smith,pamelasmith@boyd.com,8987610814,Myers and Sons
+North America,Mexico,State2,453 Brittany Throughway,06709,Jacket - Current,Clothing,Jacket,2024-05-24,2024-05-26,495.66,337.78,2,Kristi,Hill,leslieortiz@stewart.com,076.205.4596,Robles-Roberts
+North America,Mexico,State1,6641 Alexander Rue Suite 541,93425,Tablet - Left,Electronics,Tablet,2024-01-29,2024-02-05,2837.5,458.81,7,Christopher,Pittman,aaron78@garcia-mendez.org,970-890-5836x683,Smith-Barker
+Europe,France,State2,69708 Amber Point Apt. 787,81027,Tablet - Financial,Electronics,Tablet,2024-02-24,2024-03-02,2663.52,403.38,9,Charles,Johnson,michaelanthony@hotmail.com,609.320.1265x789,Ferguson-Bradley
+Asia,China,State1,521 Ward Pass,41704,Couch - Operation,Furniture,Couch,2024-03-13,2024-03-16,163.22,92.02,2,Teresa,Wilson,fcarter@hotmail.com,001-274-692-1188x2419,Smith-Levine
+North America,Mexico,State1,97589 Shannon Valleys,93186,Shirt - Seem,Clothing,Shirt,2024-06-05,2024-06-10,1262.03,433.83,4,Nicole,Gentry,joseph21@hotmail.com,(457)056-8209x225,Graham and Sons
+Asia,India,Karnataka,56407 Jason Dale Suite 728,21859,Jacket - Model,Clothing,Jacket,2024-01-01,2024-01-09,485.86,375.98,2,Samantha,Carr,browntodd@hotmail.com,224.731.2616x85071,"Andrews, Hurley and Williams"
+Europe,UK,State2,509 Megan Valley,14815,Mobile - Artist,Electronics,Mobile,2024-05-16,2024-05-19,65.68,97.22,1,Tina,Sandoval,ronaldadkins@gmail.com,001-537-092-3007x1695,"May, Mullins and Brown"
+Asia,Japan,State1,948 Lyons Forks,85155,Table - Response,Furniture,Table,2024-01-06,2024-01-14,1861.61,318.81,8,Donald,Bradley,kwatkins@gmail.com,(529)447-1619x82734,Krueger LLC
+Asia,China,State1,45025 Walker Falls,09508,Shirt - Talk,Clothing,Shirt,2024-07-28,2024-07-31,276.0,32.3,10,Taylor,Phillips,wscott@gmail.com,268-064-8606x73983,Lewis Ltd
+Europe,UK,State1,53646 Amber Isle Suite 077,36768,Couch - Series,Furniture,Couch,2024-04-07,2024-04-13,434.62,52.39,10,Janet,Long,michael56@gmail.com,920.908.5510,Galvan-Gordon
+Europe,France,State2,11786 Carolyn Spur,03004,Shirt - Minute,Clothing,Shirt,2024-04-30,2024-05-09,521.83,271.4,3,Douglas,Trujillo,sbrown@gmail.com,(069)535-4120,"Johnson, Branch and Garcia"
+Europe,UK,State2,02601 Rodriguez Forest Apt. 594,58192,Shirt - Walk,Clothing,Shirt,2024-02-02,2024-02-08,1734.45,479.12,6,Cynthia,Williamson,fcampbell@hubbard.com,(798)059-5031,"Taylor, Kim and Edwards"
+North America,USA,California,0391 Joshua Crossroad,04620,Mobile - Anything,Electronics,Mobile,2024-01-04,2024-01-12,1566.73,278.29,9,Natalie,Patterson,joneskevin@hotmail.com,359-928-5535,Roberts-Byrd
+Asia,Japan,State2,06799 Dawn Locks,75368,Laptop - Rich,Electronics,Laptop,2024-05-12,2024-05-22,177.63,88.87,3,Roy,Sloan,paynejennifer@baker-osborne.com,842.339.4495x3006,Williams Group
+Europe,Germany,Bavaria,0325 Charles Forest Suite 542,51771,Tablet - Military,Electronics,Tablet,2024-06-27,2024-06-29,1624.78,236.02,9,Isaiah,Rodriguez,brandiburton@hotmail.com,001-233-451-1009,Blake-Bradford
+Europe,UK,State1,430 Olivia Crescent Apt. 667,29329,Chair - Among,Furniture,Chair,2024-06-12,2024-06-17,1739.19,248.72,10,Laura,Jensen,peggy57@webster-ferrell.net,+1-759-212-9964,"Williams, Sanchez and Walsh"
+Asia,Japan,State1,202 Wood Pike Apt. 147,61235,Laptop - Computer,Electronics,Laptop,2024-06-02,2024-06-05,487.35,165.72,4,Pamela,Neal,solomondanny@wilkinson-perez.net,2362192158,Hall and Sons
+North America,Mexico,State2,161 Wesley Forest Suite 588,11190,Jacket - Stock,Clothing,Jacket,2024-02-18,2024-02-22,2423.83,287.76,10,Jessica,Gilmore,sjackson@gmail.com,(880)053-7893x1869,"Berry, Burns and Smith"
+Europe,Germany,Bavaria,4018 Gary Throughway Suite 200,23783,Chair - Yes,Furniture,Chair,2024-03-01,2024-03-06,721.29,145.57,7,Andrea,Gilbert,derekdougherty@king.com,432.811.6599x3020,"Kerr, Mendoza and Jackson"
+North America,Mexico,State2,22775 Heather Cove,32443,Table - Care,Furniture,Table,2024-01-15,2024-01-24,1744.24,389.64,6,Nathan,Lee,butlerolivia@king-gonzalez.com,(937)775-6919x832,"Clark, Williams and Giles"
+Asia,India,Karnataka,174 Grimes Canyon Apt. 983,16142,Shirt - Special,Clothing,Shirt,2024-01-28,2024-02-03,883.11,446.74,3,Sherry,Johnson,carl66@hernandez.com,670-805-6856,"Johnson, Martin and George"
+North America,Mexico,State1,3621 Cox Circle,40241,Shirt - Thought,Clothing,Shirt,2024-06-01,2024-06-03,2426.33,319.5,9,Bianca,Maxwell,diana76@yahoo.com,493.396.5049,Finley-Wiley
+North America,Canada,State1,61142 Robinson Loop Apt. 585,35438,Tablet - However,Electronics,Tablet,2024-03-05,2024-03-11,3072.34,448.05,9,Emily,Garcia,mavery@williamson.com,+1-341-996-4338x5324,Lopez-Bradford
+North America,USA,Texas,8333 Avery Via,05053,Chair - Your,Furniture,Chair,2024-06-28,2024-07-04,537.05,237.7,3,Lisa,Allen,melinda87@johnson-baird.com,(769)475-7694x535,Small Ltd
+Europe,France,State1,6986 Ryan Harbors Apt. 125,37928,Shirt - Education,Clothing,Shirt,2024-06-18,2024-06-22,459.28,78.78,9,Mitchell,Nichols,sara94@miller.org,(559)664-7213,Elliott-Ritter
+North America,Mexico,State1,2614 Whitney Greens,85784,Jacket - Add,Clothing,Jacket,2024-06-25,2024-07-04,148.18,29.81,6,Amy,Gonzalez,tvelasquez@mercado-lewis.com,963.731.0081x785,Taylor-Richardson
+Asia,India,Maharashtra,871 Flores Fords Suite 426,66756,Chair - Wide,Furniture,Chair,2024-03-05,2024-03-07,883.53,263.76,4,Lauren,Green,rodriguezjames@gmail.com,+1-086-523-7772x9665,Frederick Inc
+Europe,France,State2,05278 Angel Land Suite 800,03819,Mobile - Investment,Electronics,Mobile,2024-03-14,2024-03-21,536.8,354.83,2,Samantha,Webb,cameronlopez@bates-dougherty.com,(094)391-3681x72031,Mcdonald Inc
+Europe,UK,State2,09297 Maurice Stravenue Suite 953,31254,Jacket - Decade,Clothing,Jacket,2024-05-26,2024-05-30,1640.64,330.3,7,Eddie,Hernandez,hollylee@hotmail.com,+1-920-457-3532x366,"Reed, Fletcher and Holmes"
+North America,USA,New York,87082 Lawson Turnpike,16333,Table - Begin,Furniture,Table,2024-07-16,2024-07-21,1588.7,208.86,9,Kathy,Roman,ajohnson@martinez-sanders.com,+1-838-821-7648x4673,Stanton-Harrison
+Europe,France,State2,222 Cynthia Throughway,80117,Shirt - Garden,Clothing,Shirt,2024-06-20,2024-06-30,452.68,225.55,3,Kelly,Osborn,jenniferortega@hotmail.com,+1-225-606-2953x5063,Anderson-Clark
+North America,Mexico,State2,046 Hill Views,31475,Mobile - These,Electronics,Mobile,2024-07-04,2024-07-08,458.52,187.49,3,Adam,Caldwell,kelsey85@smith.com,626.084.6397,Jones Ltd
+Asia,Japan,State1,55491 Sharon Shoals Apt. 516,94922,Table - Realize,Furniture,Table,2024-05-21,2024-05-24,2028.0,340.86,8,Joseph,Jones,ronnie09@hotmail.com,969-395-7875,Brown-Cross
+North America,USA,New York,42620 Cindy Run,65529,Chair - Support,Furniture,Chair,2024-03-12,2024-03-17,56.51,72.66,1,Cody,Daniel,kyleeverett@sanchez.org,(789)760-9873x1267,Woods Inc
+Asia,Japan,State1,76075 Wong Manor,46692,Shirt - Walk,Clothing,Shirt,2024-07-06,2024-07-08,267.92,136.55,3,John,Walsh,james91@carrillo.net,+1-952-312-0219x15057,Miller PLC
+Europe,UK,State1,7000 Robert Points Suite 644,71903,Jacket - Surface,Clothing,Jacket,2024-05-26,2024-06-01,181.62,116.13,2,Elizabeth,Graham,ashley97@yahoo.com,636-560-4500,Kaiser-Hart
+Europe,France,State1,96496 Sydney Mill,10865,Laptop - Investment,Electronics,Laptop,2024-04-04,2024-04-08,2696.94,412.02,10,Daniel,Reid,ashleyjames@yahoo.com,059.702.5512,Edwards-Walker
+North America,Mexico,State2,15948 Carr Keys Suite 663,39630,Tablet - Newspaper,Electronics,Tablet,2024-03-03,2024-03-10,1500.99,302.3,8,Teresa,Molina,kylescott@gmail.com,916-999-3934x4974,Gutierrez-Clark
+Europe,France,State1,30958 Anderson Stream,63026,Mobile - Draw,Electronics,Mobile,2024-04-14,2024-04-19,2915.68,431.2,9,Jennifer,Robinson,wrightdale@gmail.com,001-972-021-7075x48534,Baker-Fox
+Europe,Germany,Hamburg,03004 Knight Vista,40397,Mobile - Professor,Electronics,Mobile,2024-06-09,2024-06-18,2623.73,303.91,10,Patrick,Brown,morrowdonald@baxter.com,001-756-589-6359x5708,Rogers-Mcbride
+North America,Mexico,State1,45843 Dominguez Locks,51342,Laptop - Yard,Electronics,Laptop,2024-06-16,2024-06-20,1646.49,274.25,10,Jeffrey,Jones,dyerkenneth@gmail.com,622.033.4742,Livingston PLC
+North America,Mexico,State2,79686 Antonio Turnpike Suite 294,50495,Jeans - Evidence,Clothing,Jeans,2024-06-06,2024-06-13,256.38,351.84,1,Karen,Chung,lucasteresa@small-brown.com,043.502.3850,Douglas Inc
+Europe,France,State2,5233 Abigail Drives,82238,Jacket - Common,Clothing,Jacket,2024-03-03,2024-03-06,393.27,75.6,7,Laura,Smith,markberry@lewis.com,3346771167,"Lynch, Ramirez and Myers"
+Asia,India,Maharashtra,955 Rachel Centers Apt. 453,07847,Jacket - His,Clothing,Jacket,2024-01-05,2024-01-13,417.02,102.62,5,Christian,Berger,lisa23@robinson.com,2847190172,Chase-Thomas
+Asia,Japan,State1,648 Blair Cove Suite 754,54754,Shirt - Common,Clothing,Shirt,2024-02-21,2024-02-29,964.37,347.01,4,Daniel,Buchanan,brendan58@herrera.com,+1-725-812-2590x95668,Williams-Brooks
+Europe,Germany,Bavaria,379 Laura Courts,17539,Couch - Father,Furniture,Couch,2024-04-08,2024-04-14,1559.34,428.94,5,Christopher,Krause,cchurch@terry.net,(901)707-4039x25199,"Hardy, Hernandez and Wright"
+Europe,UK,State2,1222 Dougherty Summit,33862,Jeans - Prepare,Clothing,Jeans,2024-04-07,2024-04-12,1506.69,280.53,7,John,Grant,andrewvincent@thomas.com,(549)633-0833x4447,"Kelly, George and Moss"
+Asia,China,State2,47020 Austin Lane Suite 195,25334,Table - Understand,Furniture,Table,2024-01-08,2024-01-15,2221.51,370.53,7,Kristin,West,raywalters@gmail.com,(956)342-7775,Shaw-Stone
+North America,USA,New York,61658 Donald Rapids,18041,Laptop - Study,Electronics,Laptop,2024-03-07,2024-03-11,165.75,115.08,2,Anthony,Wood,brittanywilson@glass-friedman.biz,029.559.6363,Barr PLC
+Europe,UK,State1,66154 Debbie Plaza,45018,Laptop - Major,Electronics,Laptop,2024-02-29,2024-03-02,613.07,413.4,2,Colton,Harris,dianawolf@williams.net,211.221.2154,"Ortiz, Serrano and Sharp"
+North America,Canada,State1,764 Dalton Prairie Apt. 854,73412,Laptop - Much,Electronics,Laptop,2024-02-13,2024-02-18,180.54,49.22,6,Amanda,Price,marynunez@gmail.com,(298)778-7358x5664,"Watson, Hernandez and Graham"
+Europe,France,State2,42192 Stokes Fall,10344,Jacket - Young,Clothing,Jacket,2024-06-04,2024-06-06,710.63,323.74,3,James,Smith,mitchellcheryl@robinson.info,911.797.2699x99498,"Collins, Mcgee and Larson"
+Asia,Japan,State2,66602 Bryan Keys,26283,Mobile - Big,Electronics,Mobile,2024-03-03,2024-03-13,2487.17,352.24,9,Julie,Ryan,glopez@morris.com,(438)380-5826,"Hale, Rodriguez and Dunn"
+North America,USA,Texas,8627 Mahoney Walks Apt. 283,66246,Tablet - Thousand,Electronics,Tablet,2024-03-07,2024-03-09,107.64,52.55,3,Chelsea,Cruz,lisarussell@miller.net,001-626-713-6841x01328,"Osborne, Saunders and Brown"
+Europe,France,State2,88352 Mclaughlin Stream,08797,Couch - Strong,Furniture,Couch,2024-03-01,2024-03-06,127.97,17.53,9,Allison,Nguyen,ecisneros@cruz-curtis.biz,001-592-088-1431x92797,Mccullough Ltd
+Asia,Japan,State2,698 Amber Hills Suite 720,94373,Jacket - It,Clothing,Jacket,2024-02-15,2024-02-22,1975.14,482.01,6,Lynn,Hernandez,zrichardson@hotmail.com,(295)912-5734x9899,Hull-Neal
+North America,USA,Texas,074 Beth Rest Apt. 747,19207,Couch - Vote,Furniture,Couch,2024-03-04,2024-03-06,360.03,95.77,5,Kathy,Jenkins,duranaudrey@yahoo.com,080.897.4748x5994,Nguyen-Guzman
+North America,USA,New York,67347 Clark Street Apt. 649,70454,Table - Into,Furniture,Table,2024-04-17,2024-04-20,3718.05,478.79,9,Anthony,Roberts,elizabethrobertson@liu-murphy.com,026-270-6648,Mckay and Sons
+North America,Canada,State2,458 Kayla Alley Apt. 057,40493,Couch - Play,Furniture,Couch,2024-01-24,2024-02-02,1354.45,381.16,4,Elizabeth,Fernandez,vgreen@tran.com,2750003056,Larsen and Sons
+Europe,UK,State2,305 Carter Point Suite 937,71458,Shirt - Soon,Clothing,Shirt,2024-06-05,2024-06-14,194.9,136.33,2,Elizabeth,Merritt,dcole@hotmail.com,001-701-872-6001x36510,Vargas PLC
+Asia,Japan,State1,906 Hill Junctions,55805,Table - During,Furniture,Table,2024-04-15,2024-04-22,1986.91,272.47,9,Angelica,Hickman,kevinjohnson@gmail.com,001-215-599-6725x62221,Turner-Novak
+Europe,Germany,Berlin,0474 Lester Hollow Suite 559,29708,Laptop - Politics,Electronics,Laptop,2024-01-04,2024-01-11,368.25,281.73,2,Carolyn,Nguyen,amandaedwards@rivas-montes.com,531-290-0362x21173,Young-Frederick
+Europe,France,State1,839 Peters Station Suite 852,24217,Jeans - Wind,Clothing,Jeans,2024-02-25,2024-02-29,671.8,254.51,4,Breanna,Torres,jenniferedwards@yahoo.com,857-591-7105,"Booker, Simpson and Coleman"
+North America,USA,Texas,7744 Hall Lakes,84207,Mobile - Whom,Electronics,Mobile,2024-01-21,2024-01-26,1186.87,419.8,4,Jason,Barton,urusso@hotmail.com,001-417-159-4973x4493,"Christian, Williams and Parker"
+Asia,India,Telangana,31836 Morgan Cliff,90728,Jacket - Although,Clothing,Jacket,2024-05-09,2024-05-18,113.57,13.25,10,James,Petersen,gmayer@hunter-preston.net,527-873-0486,Freeman PLC
+Asia,China,State2,5353 Burnett Tunnel Apt. 189,14575,Jeans - Create,Clothing,Jeans,2024-05-02,2024-05-11,3255.73,435.7,10,Michael,Jennings,joshua67@moss.biz,(969)143-3629,"Brown, White and Wallace"
+North America,Canada,State2,99990 Daniel Place Suite 739,02724,Tablet - Point,Electronics,Tablet,2024-04-09,2024-04-13,194.54,267.61,1,Amanda,Young,codymiller@hotmail.com,(844)246-4884x99795,Soto-Jordan
+North America,USA,New York,9582 Megan Center Apt. 217,98174,Table - Left,Furniture,Table,2024-03-07,2024-03-11,3163.36,488.49,8,Brandy,Simon,kevinfernandez@franklin.info,5984451436,"Bartlett, Watson and Rowe"
+Europe,France,State1,303 Walton Vista,70804,Tablet - Model,Electronics,Tablet,2024-03-03,2024-03-08,1439.09,294.69,7,Daniel,Miller,fflowers@landry-rogers.com,9921779055,"Cooley, Hendrix and Garcia"
+North America,Canada,State1,58807 Kayla Skyway Suite 326,03119,Jeans - Choose,Clothing,Jeans,2024-06-14,2024-06-19,944.47,240.96,5,Julie,Martinez,smithsusan@martinez.com,+1-551-360-9085x8181,Richards-Walker
+Europe,Germany,Berlin,736 Rebecca Square,70091,Chair - And,Furniture,Chair,2024-04-20,2024-04-28,816.21,188.89,6,Tyler,Gray,robynmiller@hotmail.com,(896)933-5390x058,Brown-Taylor
+Europe,Germany,Hamburg,315 Hoover Garden Suite 925,45945,Tablet - Fund,Electronics,Tablet,2024-06-16,2024-06-21,611.07,363.2,2,Kristy,Wilson,john90@hotmail.com,(837)727-0289,Richardson LLC
+North America,Canada,State2,81644 Lisa Springs Suite 101,82218,Mobile - Know,Electronics,Mobile,2024-05-26,2024-05-30,2114.51,404.78,8,Yvette,Murray,matthewbrennan@hotmail.com,640-510-3880x2730,Smith-Sloan
+Europe,Germany,Hamburg,4471 Brittany Underpass,28211,Jacket - Everything,Clothing,Jacket,2024-02-25,2024-03-03,965.54,157.02,8,Sara,Johnston,qsimpson@avila.com,001-228-849-8745,Barnes-Henderson
+North America,USA,Texas,727 Shawn Flat Apt. 688,16205,Tablet - Somebody,Electronics,Tablet,2024-05-16,2024-05-20,78.17,115.58,1,Kristina,Todd,harrisstacey@hotmail.com,818.738.7758x33364,Foley and Sons
+North America,USA,Texas,090 Sheri Keys,25798,Jeans - Sort,Clothing,Jeans,2024-07-03,2024-07-09,858.78,186.55,6,William,Walsh,lopezdavid@gmail.com,(420)412-3190x577,Smith-King
+Europe,France,State1,794 Annette Estate,35985,Chair - Center,Furniture,Chair,2024-01-03,2024-01-10,830.65,107.49,10,Nathan,Norman,howelljennifer@garcia-walters.com,(487)098-7264,Chang-Jones
+North America,Mexico,State1,4224 Joseph Square,85132,Table - Tree,Furniture,Table,2024-06-07,2024-06-14,1838.81,248.87,9,Emily,Jackson,fergusonchristy@lee.net,(163)070-2867x20200,White LLC
+Asia,China,State2,95368 Alejandro Mountain,62864,Couch - Phone,Furniture,Couch,2024-05-10,2024-05-14,853.65,323.88,3,Cassidy,Johnson,vsanchez@sheppard.org,130.722.1138x690,Myers Group
+Europe,UK,State2,21045 Paul Turnpike Apt. 719,22414,Mobile - Six,Electronics,Mobile,2024-07-16,2024-07-20,508.08,121.83,6,Amy,Haney,dflowers@torres-russell.com,442.252.1602,Wilkerson-Rios
+Europe,UK,State2,09447 Ware Lane,81375,Jacket - Guess,Clothing,Jacket,2024-03-11,2024-03-19,1856.18,444.97,5,Andrew,Craig,leslie32@yahoo.com,(179)480-2455x98516,Pruitt LLC
+Europe,UK,State2,8912 Fernandez Lodge,99781,Chair - Although,Furniture,Chair,2024-02-21,2024-02-25,47.78,71.27,1,Jacqueline,Oconnor,timothy68@hotmail.com,(237)600-8844x74083,Rodriguez Ltd
+Europe,UK,State1,64006 Phillip Stream,82463,Mobile - Left,Electronics,Mobile,2024-02-04,2024-02-12,100.12,56.82,2,David,Gonzalez,joshuaadams@yahoo.com,708-213-9865x462,"Rodriguez, Johnson and Carter"
+Europe,UK,State1,720 Orr Alley,27781,Laptop - Choose,Electronics,Laptop,2024-01-04,2024-01-14,95.7,60.92,2,Kathleen,Smith,dunnnicholas@manning-mcknight.info,919.008.8991,Jones and Sons
+Asia,Japan,State2,169 Lori Dam,90352,Chair - Campaign,Furniture,Chair,2024-04-07,2024-04-12,724.52,227.15,5,Troy,Peck,priceamber@hotmail.com,481-867-4630x00998,Sullivan Inc
+North America,USA,California,1181 Davis Rapids,73284,Tablet - Factor,Electronics,Tablet,2024-03-26,2024-04-02,1925.06,433.48,6,Debbie,Benson,katherinemccarty@yahoo.com,(034)015-3534,Hamilton Inc
+North America,Canada,State2,9466 Hernandez Center Apt. 082,35496,Tablet - Itself,Electronics,Tablet,2024-06-08,2024-06-18,662.18,299.51,3,Nicole,Le,barkeredwin@delgado.info,+1-402-620-8581x745,Griffin Group
+North America,Mexico,State2,4235 Smith Hill,11929,Jacket - West,Clothing,Jacket,2024-02-22,2024-03-03,1695.1,455.37,5,Erik,Davis,daniel16@fuller.com,(904)610-0792x304,Perez-Durham
+Asia,India,Maharashtra,271 Christopher Summit,23540,Table - Last,Furniture,Table,2024-06-07,2024-06-15,260.27,86.3,5,James,Strong,belldavid@hotmail.com,850-766-5344x604,Brown and Sons
+North America,USA,Texas,460 Christy Isle,31512,Table - Real,Furniture,Table,2024-03-10,2024-03-20,259.42,347.01,1,Adam,Porter,travis24@bailey.com,682.251.2726x7086,Good Group
+Europe,France,State1,24197 Phelps Mills Suite 947,61722,Table - Throw,Furniture,Table,2024-06-11,2024-06-16,182.93,278.62,1,Maria,Bates,michaeljohnson@drake.net,001-742-235-4340,"Lamb, Donovan and Frederick"
+North America,Canada,State2,56495 Michael Ports,23054,Mobile - Food,Electronics,Mobile,2024-06-11,2024-06-19,515.62,118.09,7,Andre,Ross,dawn11@gmail.com,+1-973-881-8273x06343,"Molina, Kelley and Meza"
+North America,USA,New York,849 Herrera Lodge,53605,Jacket - Green,Clothing,Jacket,2024-04-21,2024-04-27,1244.73,327.74,5,Jordan,Schroeder,velasquezvictoria@gmail.com,254-341-2301,"Baxter, Shaw and White"
+Europe,France,State1,37218 Brown Centers Apt. 203,14268,Mobile - Section,Electronics,Mobile,2024-06-04,2024-06-08,235.97,64.07,5,Brooke,Pierce,davisjoshua@clark.com,171.978.6016,Collins Ltd
+Europe,France,State2,841 Bruce Roads,61666,Laptop - Usually,Electronics,Laptop,2024-03-01,2024-03-03,78.3,34.32,3,Lori,Murphy,fullerchase@yahoo.com,358-210-7288x78072,Sutton-Jensen
+Asia,India,Maharashtra,60881 Daugherty Drives Apt. 399,83566,Chair - State,Furniture,Chair,2024-06-30,2024-07-09,80.06,124.08,1,Vanessa,King,nicholstodd@gmail.com,7681024808,"Hodges, Espinoza and Mcdonald"
+Europe,Germany,Berlin,44323 Maynard Estates,16431,Table - Hit,Furniture,Table,2024-05-16,2024-05-25,1191.88,237.21,6,Peter,Johnson,darnold@yahoo.com,(706)751-6913x9521,Camacho-Mason
+Europe,Germany,Bavaria,1070 James Cape,85537,Laptop - Fund,Electronics,Laptop,2024-01-22,2024-01-30,361.48,276.16,2,Alexandra,Scott,melinda19@glenn.com,130.041.6910x53021,"Wilson, Russell and Evans"
+Europe,France,State1,463 Elizabeth Ridges Suite 348,12391,Tablet - Home,Electronics,Tablet,2024-01-28,2024-02-02,1990.01,387.9,7,Clarence,Nguyen,rhonda64@henry.biz,573-855-1281,Alvarez-Diaz
+North America,USA,California,597 Matthew Green,20786,Couch - Western,Furniture,Couch,2024-06-23,2024-06-26,2005.53,336.34,9,Nicholas,Mcmillan,umartin@smith-phillips.com,(546)772-0517x10730,Rivera-Garcia
+Europe,UK,State2,783 Beck Circle Apt. 175,40726,Chair - The,Furniture,Chair,2024-07-13,2024-07-15,1613.77,265.25,9,Tiffany,Moreno,ephillips@gordon-nguyen.info,+1-260-292-5468x62728,Martinez-Cruz
+North America,Canada,State1,07632 Dougherty Wall Apt. 538,53046,Chair - Name,Furniture,Chair,2024-04-26,2024-05-01,183.47,125.62,2,Thomas,Holt,jefferyrice@hotmail.com,790.604.8869x32055,West Group
+Asia,India,Maharashtra,3961 Carlson Mission,56739,Shirt - Star,Clothing,Shirt,2024-04-01,2024-04-09,35.24,14.38,4,Stephanie,Frank,erinrojas@yahoo.com,078.977.5542x619,Smith-Kramer
+North America,Canada,State1,27362 Chandler Falls Apt. 222,63696,Chair - Sea,Furniture,Chair,2024-01-11,2024-01-16,616.33,254.96,3,Dakota,Juarez,denise76@hotmail.com,716-204-2985,Guerra PLC
+Europe,UK,State1,52169 Jared Walks,23985,Laptop - Build,Electronics,Laptop,2024-04-22,2024-04-26,2283.38,397.82,9,Jacob,Roach,davistiffany@yahoo.com,(647)106-8017,Hood-Powell
+Asia,China,State2,70500 Aguilar Fords Apt. 672,33767,Couch - Majority,Furniture,Couch,2024-01-08,2024-01-13,246.0,347.73,1,Sabrina,Bennett,royscott@ramirez.net,8390654025,Drake Inc
+Asia,China,State1,72728 Ernest Ports,15950,Couch - Power,Furniture,Couch,2024-05-06,2024-05-15,1124.41,154.41,9,Lynn,Walker,theresa96@martinez.biz,652.728.4539x749,Hale and Sons
+Asia,Japan,State1,0675 Mathis Brooks Apt. 080,87677,Jeans - Smile,Clothing,Jeans,2024-05-25,2024-06-01,984.7,144.91,8,Jennifer,Garcia,martinkelsey@frank-blackburn.com,+1-044-890-9322x533,Chavez Inc
+North America,USA,California,02555 Daniel Stream Apt. 545,94599,Shirt - Design,Clothing,Shirt,2024-03-08,2024-03-17,1568.88,411.52,5,Felicia,Johnson,heather39@gmail.com,001-332-436-2962x08059,Bernard and Sons
+Europe,Germany,Hamburg,1290 Deleon Terrace Suite 599,81082,Jeans - Skin,Clothing,Jeans,2024-07-28,2024-08-01,222.46,313.67,1,Dennis,Brown,tammymorales@castillo.org,(421)062-9419x375,"Hall, Martinez and Church"
+North America,USA,Texas,75362 Wyatt Harbor,62557,Shirt - Prevent,Clothing,Shirt,2024-02-07,2024-02-17,580.61,103.04,7,Lucas,Contreras,patrick20@hotmail.com,(173)009-9284x52403,"Anderson, Foster and Jones"
+North America,USA,New York,0514 Jennifer Dam Apt. 914,31665,Table - Compare,Furniture,Table,2024-02-11,2024-02-19,291.26,64.13,6,Elizabeth,Williams,dlowery@hotmail.com,(479)254-2218,Gomez and Sons
+Asia,India,Telangana,204 Vasquez Meadows,65081,Mobile - Offer,Electronics,Mobile,2024-04-01,2024-04-06,312.08,247.83,2,Cynthia,Gallegos,nicoletodd@lawrence.com,+1-025-784-6408x585,"Cardenas, Fuller and Leonard"
+North America,Mexico,State2,672 Kramer Brook Suite 672,86806,Jeans - Simple,Clothing,Jeans,2024-07-23,2024-08-02,2393.37,353.64,10,Breanna,Jackson,michellewalsh@yahoo.com,001-519-628-2225x0182,"Lee, Rodgers and Jackson"
+Europe,Germany,Hamburg,86394 Debbie Course Apt. 234,11929,Shirt - Head,Clothing,Shirt,2024-06-06,2024-06-08,1164.29,331.32,4,Karl,Berry,jacobsdiana@jackson-steele.com,(660)450-9563,Sherman LLC
+Asia,China,State1,391 Jo Corner,75857,Couch - Crime,Furniture,Couch,2024-01-26,2024-02-03,1478.94,399.18,6,Jeffrey,Wood,dennisevans@davis-herring.com,(006)082-7705x6461,Huff-Holland
+North America,Canada,State1,4385 Alexis Islands,30420,Shirt - Wind,Clothing,Shirt,2024-06-11,2024-06-17,839.97,472.86,2,Steven,Gonzalez,wallaceronald@gmail.com,133.610.9441,Wells Group
+Asia,India,Karnataka,5441 Steve Mountain,62087,Tablet - Learn,Electronics,Tablet,2024-04-26,2024-05-04,333.59,104.63,4,Donna,Price,wtapia@gmail.com,(349)429-0461x75518,Mcmillan Ltd
+North America,Mexico,State1,42024 Sean Grove,35539,Jacket - Oil,Clothing,Jacket,2024-06-20,2024-06-30,2181.88,375.59,7,Christian,Crawford,michael53@holloway.com,(548)536-2689,Bolton Group
+North America,Canada,State2,00953 Garrett Island Suite 421,51725,Jacket - Analysis,Clothing,Jacket,2024-04-19,2024-04-27,120.02,91.74,2,Jessica,Young,perkinsjeffrey@jones.info,+1-614-378-8443x7066,"Mcdonald, Gonzalez and Hamilton"
+Europe,UK,State2,4672 Fischer Lodge Apt. 541,68588,Shirt - Beautiful,Clothing,Shirt,2024-07-29,2024-08-08,1602.5,227.08,10,Nathan,Holmes,hernandezthomas@jackson.net,507-860-4356x6050,Bridges-Mccarty
+Europe,UK,State2,06773 Lisa Mountains,92361,Table - Drive,Furniture,Table,2024-04-06,2024-04-14,1421.56,308.12,6,Lacey,Conway,jessicafisher@pruitt-day.com,+1-087-886-5385x906,Adams-Coleman
+Asia,China,State2,0550 Duncan Dam Apt. 704,85424,Table - Market,Furniture,Table,2024-03-20,2024-03-29,43.16,10.1,7,Melissa,Henderson,cvega@russell.com,1629073992,"Perry, Torres and Li"
+Europe,UK,State1,1826 Church Trafficway,27249,Shirt - Speak,Clothing,Shirt,2024-07-16,2024-07-22,104.76,157.16,1,Kendra,Hall,amclaughlin@henderson.com,(942)039-8313x5490,"Miller, Carney and Velasquez"
+Europe,Germany,Hamburg,0692 Christina Viaduct Suite 305,34378,Couch - Budget,Furniture,Couch,2024-04-19,2024-04-29,2011.0,289.63,9,Wendy,Moreno,annahunt@yahoo.com,+1-302-178-1678x06643,Hampton-Bishop
+Asia,India,Maharashtra,64928 Mark Flats,59321,Chair - Resource,Furniture,Chair,2024-02-14,2024-02-18,735.41,189.87,5,Kim,Wilson,robertevans@hobbs-harris.net,+1-808-172-6282x9682,Ware-Rose
+Asia,China,State2,072 Bean Ferry,84594,Tablet - Rather,Electronics,Tablet,2024-04-24,2024-05-02,3771.32,459.76,10,Deborah,Welch,barnesaaron@jennings.biz,276-620-8082,Kirby-Nguyen
+North America,Canada,State2,263 Ramirez Forge,43238,Laptop - Though,Electronics,Laptop,2024-01-07,2024-01-10,1984.6,324.7,10,Leah,James,matthew87@miller.com,+1-242-536-9091x23753,Weber Group
+North America,Canada,State1,96702 Allen Island,17928,Laptop - Act,Electronics,Laptop,2024-03-11,2024-03-18,1289.41,214.1,7,Megan,Vance,belljeffrey@yahoo.com,818-754-0364x882,"Blankenship, Hudson and Sullivan"
+Asia,Japan,State1,6623 Jerry Camp Suite 679,82411,Jacket - By,Clothing,Jacket,2024-05-16,2024-05-24,97.57,159.34,1,Tara,Russell,nathancollins@faulkner-wyatt.com,(042)986-2269,"Hudson, Bolton and Wright"
+North America,Mexico,State1,9962 Patricia Lane,80490,Couch - President,Furniture,Couch,2024-02-20,2024-02-25,85.43,34.75,3,Tricia,Kerr,jasonwalton@woods.info,001-779-256-0413x482,Reyes Group
+Europe,France,State1,3983 Eric Crossroad,53251,Laptop - Appear,Electronics,Laptop,2024-07-22,2024-07-28,404.89,82.53,7,Alejandro,Smith,kenneth76@larsen.com,304-913-4103x8975,Woodard-Li
+Europe,UK,State1,564 Julia Shores Apt. 405,81907,Jeans - Civil,Clothing,Jeans,2024-07-30,2024-08-05,299.85,205.28,2,Tara,Banks,jesusdecker@hudson.biz,(919)489-6298x05682,Anderson-Vargas
+North America,USA,California,079 Ortiz Pine,56942,Couch - Until,Furniture,Couch,2024-01-02,2024-01-07,1257.13,203.71,8,Ashley,Spence,melissa04@pope.info,125-313-7956x100,Wells LLC
+North America,Mexico,State1,0361 Tammy Drive Suite 999,95165,Mobile - Model,Electronics,Mobile,2024-07-09,2024-07-15,1034.52,168.47,7,Chad,Gonzalez,jasonwilliams@yahoo.com,001-244-474-8904x7607,Gonzalez-Jackson
+Asia,India,Karnataka,07651 Kristin Roads Apt. 851,63850,Table - So,Furniture,Table,2024-07-26,2024-08-02,436.11,103.34,6,Heather,Woodward,christian56@bonilla.org,858-055-8115,Cline-Schroeder
+North America,USA,Texas,539 Sandra Causeway Suite 700,37863,Laptop - Want,Electronics,Laptop,2024-06-24,2024-07-03,499.67,81.45,10,Alex,Sanchez,luis41@hill.org,001-822-180-3966x203,Nelson-Owen
+Asia,India,Karnataka,788 Edward Islands,21138,Chair - My,Furniture,Chair,2024-05-24,2024-05-27,501.17,372.39,2,Cathy,Morgan,heather93@gmail.com,001-356-230-3974x4088,"Spencer, Cohen and Ramirez"
+North America,USA,Texas,92019 Amber Stream Suite 311,26675,Laptop - We,Electronics,Laptop,2024-01-21,2024-01-24,699.46,230.53,5,Erin,Lozano,vgarcia@hotmail.com,858-052-6321x196,Freeman-Wagner
+Asia,Japan,State1,05397 Thomas Groves,48127,Tablet - Alone,Electronics,Tablet,2024-04-24,2024-05-04,1097.39,278.91,5,Jennifer,Phillips,samanthawoodard@wallace.com,(199)539-4676x6262,Lindsey-Chambers
+Asia,Japan,State1,26184 David Oval,73314,Couch - Energy,Furniture,Couch,2024-05-06,2024-05-16,83.54,135.17,1,Rebecca,Smith,dwilliams@yahoo.com,066.360.5028,"Blake, Bennett and Smith"
+Asia,Japan,State2,39091 Brian Streets,31598,Laptop - Very,Electronics,Laptop,2024-02-04,2024-02-06,273.16,200.44,2,Danielle,Thomas,franklinmatthew@gonzalez.org,953.192.6009x860,"Schultz, Adams and Smith"
+North America,Canada,State1,544 Bradley Heights Suite 453,67845,Laptop - Cell,Electronics,Laptop,2024-06-28,2024-07-06,1475.32,490.1,4,Christopher,Grant,wbailey@lewis.com,(622)952-1797x0566,Stark-Meza
+North America,USA,Texas,8607 Kenneth Way,84432,Couch - Actually,Furniture,Couch,2024-04-01,2024-04-11,152.05,101.34,2,Eric,Fisher,andersonmichael@gmail.com,(850)153-0173x167,Garcia-Fisher
+Europe,UK,State1,052 Jonathan Club Apt. 395,40817,Mobile - Table,Electronics,Mobile,2024-02-06,2024-02-16,622.7,173.45,5,Scott,Baker,jessica53@gmail.com,+1-579-057-1918x98664,Henderson-Reed
+Asia,India,Maharashtra,59748 Foster Avenue,49555,Jeans - Throw,Clothing,Jeans,2024-06-06,2024-06-13,561.73,125.74,5,Gloria,Williams,victoriabenson@solis-davis.com,019.220.9567,"Lewis, Rivera and Mcclure"
+North America,Canada,State1,23964 Williams Ways Apt. 532,52246,Jeans - Effort,Clothing,Jeans,2024-03-25,2024-04-02,418.15,472.63,1,Sarah,Huang,lwilliamson@hotmail.com,(427)739-2385,Jefferson and Sons
+Asia,India,Maharashtra,91401 Jensen Forks,23463,Couch - Reach,Furniture,Couch,2024-02-24,2024-02-28,556.05,367.65,2,Zachary,Carter,troy19@fox.info,515-452-6075x69991,Taylor Ltd
+North America,Mexico,State1,3322 Haney Stream Apt. 277,61769,Chair - Defense,Furniture,Chair,2024-03-26,2024-03-30,2966.99,485.56,7,Steven,Harris,gtanner@choi.com,001-707-038-5036x0595,Johnson Ltd
+Europe,France,State1,740 Rachael Groves,02926,Tablet - Condition,Electronics,Tablet,2024-07-14,2024-07-18,2312.27,275.26,10,Emma,Oneill,william67@yahoo.com,(590)620-0363,Taylor-Roberts
+Asia,China,State1,6149 Adams Ranch Suite 931,69014,Chair - Support,Furniture,Chair,2024-07-16,2024-07-20,197.1,43.23,6,Sara,Pollard,megan91@yahoo.com,+1-860-995-5049x326,"Hendrix, Walters and Leon"
+North America,USA,California,461 Craig Stravenue,72335,Chair - Stage,Furniture,Chair,2024-06-18,2024-06-20,1917.39,441.26,6,Brenda,Michael,riverakeith@perez-smith.com,(762)239-8474,Robinson-Anderson
+Europe,France,State2,88822 Shannon Row Suite 058,38528,Jacket - Consider,Clothing,Jacket,2024-03-03,2024-03-09,742.81,391.76,3,Carlos,Boyd,archerjames@hotmail.com,956-479-9846x058,Sanders-Murray
+Asia,India,Karnataka,97236 Brent Plains,08280,Jeans - Later,Clothing,Jeans,2024-06-21,2024-06-26,997.85,123.77,10,Audrey,Taylor,amorales@barnes.com,001-786-457-8655x5751,"Adams, Hampton and Hughes"
+Europe,Germany,Hamburg,8758 Stokes Walks,17906,Chair - Consider,Furniture,Chair,2024-04-08,2024-04-18,1905.23,239.69,10,Kelly,Brown,qreyes@rodriguez-thompson.com,418-997-4023x3868,Jordan-Smith
+Asia,China,State2,170 Ricky Cape,82055,Chair - Last,Furniture,Chair,2024-01-07,2024-01-11,349.35,120.87,4,Kenneth,Zuniga,williamjenkins@williams.com,001-089-830-9413x4909,"Rowe, Copeland and Hoover"
+Asia,China,State2,45284 Jason Loaf Suite 804,42152,Tablet - Speech,Electronics,Tablet,2024-06-17,2024-06-22,148.97,42.41,4,Robin,Marshall,fwalton@yahoo.com,095.739.4059x80260,"Jones, Lawson and Carlson"
+Europe,UK,State2,15892 Meyer Ridge,02802,Jeans - Concern,Clothing,Jeans,2024-04-07,2024-04-16,731.25,219.5,4,Taylor,Richard,perezanna@ortega-ruiz.net,(759)514-1864x82308,Thomas-Wiggins
+North America,Mexico,State2,96233 Tasha Meadow Apt. 586,94405,Jeans - Nearly,Clothing,Jeans,2024-02-20,2024-02-28,3627.82,470.18,10,Cindy,Ramirez,sroberson@hotmail.com,173.066.2931,"Flores, Davidson and Russo"
+North America,Mexico,State1,2655 Perry Plaza,78321,Shirt - Hot,Clothing,Shirt,2024-02-05,2024-02-14,2035.37,415.23,8,Mary,Mahoney,dennishardy@valdez.info,+1-890-223-7900x654,"Mclean, Yates and Davis"
+Asia,Japan,State2,7954 Courtney Mills Suite 755,27046,Shirt - Turn,Clothing,Shirt,2024-07-29,2024-08-08,1452.35,262.9,7,Brittney,Jones,dcurry@jones.org,8945896268,"Little, Brown and Oneal"
+Asia,India,Maharashtra,020 Ross Drive,31669,Table - Develop,Furniture,Table,2024-07-15,2024-07-21,857.77,236.06,5,Brittney,Maldonado,wallskristie@johnson.net,+1-129-886-1820,Pierce-Ramos
+North America,USA,New York,07923 Maxwell Radial,73224,Shirt - Range,Clothing,Shirt,2024-07-08,2024-07-17,326.01,54.32,8,Douglas,Tran,joshuamccarthy@spears.info,3506757896,Sexton Group
+Asia,Japan,State1,707 Young Courts Apt. 315,43659,Table - Training,Furniture,Table,2024-07-20,2024-07-27,130.79,22.21,8,Matthew,Williams,clowe@yahoo.com,(187)993-8444,"Grimes, Barajas and Lee"
+North America,USA,Texas,41470 Karen Forks,85458,Laptop - Another,Electronics,Laptop,2024-04-30,2024-05-07,691.85,362.0,3,Laura,Rosales,cnichols@nguyen.net,+1-109-779-7802x344,Holden-Medina
+Asia,Japan,State2,36640 Ryan Dale Suite 737,66827,Jeans - Heavy,Clothing,Jeans,2024-06-14,2024-06-17,2625.27,356.57,9,Dorothy,Melton,tdiaz@gmail.com,+1-273-186-8302x915,"Carter, Jenkins and Kennedy"
+North America,Mexico,State1,24165 Andrea Road,97345,Couch - Operation,Furniture,Couch,2024-05-23,2024-05-31,337.63,386.45,1,Jonathan,Wright,djohnson@gmail.com,467-462-1595x8417,"Stanley, Day and Ferrell"
+North America,Mexico,State1,21816 Debbie Heights,13461,Mobile - Executive,Electronics,Mobile,2024-02-14,2024-02-18,149.38,215.6,1,Jeremy,Hines,dhughes@hotmail.com,001-483-774-0292,Brown-Smith
+Europe,France,State1,26509 Mann Ferry,15780,Mobile - North,Electronics,Mobile,2024-06-06,2024-06-11,212.95,315.05,1,Angela,Lopez,mstevens@hotmail.com,(666)102-5634x2022,Beck-Shea
+Europe,France,State2,76836 Howard Streets,02617,Shirt - Cell,Clothing,Shirt,2024-03-26,2024-04-04,371.06,116.27,4,Clayton,Lin,edward44@martinez-carter.org,(335)174-6564,Austin-Stephens
+Europe,France,State2,2631 Moss Row,50490,Tablet - Challenge,Electronics,Tablet,2024-05-26,2024-05-28,1209.02,442.26,4,Patricia,Schultz,danielletucker@yahoo.com,(414)900-3850x2551,Rodriguez Group
+North America,Mexico,State1,672 Amanda Plain Apt. 904,61950,Mobile - Shoulder,Electronics,Mobile,2024-03-21,2024-03-25,201.7,330.11,1,Kari,Frye,sara46@stevenson.com,001-325-114-9788,Chan-Schaefer
+Asia,Japan,State2,0954 Scott Run,57575,Chair - Man,Furniture,Chair,2024-05-03,2024-05-05,280.09,214.31,2,Roger,Palmer,wayne01@horton.com,915.114.3678,Brown Ltd
+North America,Canada,State1,710 Mccoy Island,55976,Couch - Itself,Furniture,Couch,2024-03-07,2024-03-14,38.37,55.63,1,Kevin,Rivera,russellamy@gmail.com,(693)315-4230,"Garcia, Mcbride and Tucker"
+Europe,France,State1,655 Emma Village,18602,Couch - International,Furniture,Couch,2024-01-13,2024-01-16,766.16,240.7,5,Gary,Yang,kristina06@castillo-garcia.com,599-201-6633x822,Lopez Inc
+Europe,France,State2,222 Nathan Dam,86355,Shirt - Central,Clothing,Shirt,2024-02-23,2024-02-28,297.07,38.51,10,Anthony,Woodward,wilsonjared@parker.com,+1-252-861-3239x4564,Johnson-Esparza
+North America,Mexico,State1,4976 Glen Prairie Suite 634,23290,Couch - Goal,Furniture,Couch,2024-02-19,2024-02-25,1499.91,308.33,7,Julie,Blair,samuelchavez@hotmail.com,349.852.9735x6152,Torres PLC
+North America,Mexico,State2,7625 Monica Pass,08441,Tablet - Identify,Electronics,Tablet,2024-06-06,2024-06-15,2477.03,367.3,9,Christine,Butler,adamskirsten@yahoo.com,369.524.7466,Cervantes-Hart
+Asia,Japan,State1,98532 Harris Station Suite 792,39535,Jeans - Serve,Clothing,Jeans,2024-05-03,2024-05-08,50.22,67.92,1,Dakota,Wells,sboyer@tapia-mcgee.net,543.468.5863,"Hall, Clark and Carpenter"
+Asia,Japan,State1,9793 Robert Knoll,29940,Jeans - Relate,Clothing,Jeans,2024-01-11,2024-01-19,133.32,173.56,1,Emily,Porter,gprince@gonzalez.com,372.607.2014x8967,Glover-Long
+North America,USA,California,21463 Logan Mills,52518,Shirt - Once,Clothing,Shirt,2024-01-08,2024-01-14,1374.97,397.2,5,Ivan,Day,paulpark@christensen-harris.com,+1-172-994-0369x481,"Kemp, Hughes and Hill"
+North America,Mexico,State2,497 Christine Mission Apt. 683,29133,Mobile - Region,Electronics,Mobile,2024-02-12,2024-02-19,943.59,204.06,6,Mark,Greene,blancharddaniel@glover-duncan.com,(399)490-1333x4437,May Ltd
+Asia,India,Telangana,140 Davis Circle Apt. 679,28879,Table - Whose,Furniture,Table,2024-06-11,2024-06-20,2543.95,400.65,8,Benjamin,Mcknight,moralestheresa@pena.com,4202886616,Douglas-Harris
+Europe,Germany,Hamburg,42134 Turner Green,20939,Couch - Whole,Furniture,Couch,2024-07-30,2024-08-06,2283.5,394.15,8,Wendy,Clark,colemanheather@joyce.org,386-015-7117,Adkins Inc
+North America,USA,New York,24702 Keith Crest Apt. 874,42065,Couch - Business,Furniture,Couch,2024-03-19,2024-03-26,1625.21,272.58,9,Derrick,Washington,taraalvarez@richardson.com,+1-138-107-4916x194,Patton Inc
+North America,Canada,State2,315 Martin Loop,78726,Mobile - Condition,Electronics,Mobile,2024-04-06,2024-04-12,125.54,176.18,1,Elizabeth,Church,jjones@olsen-rogers.com,(741)025-4717,"Hernandez, Bailey and Wiley"
+North America,USA,New York,6948 Tina Burgs Suite 195,57214,Jeans - Past,Clothing,Jeans,2024-07-29,2024-08-02,561.34,67.25,10,Shannon,Crosby,michaelosborne@yahoo.com,(271)726-6256,"Bush, Hill and Fox"
+Europe,UK,State2,014 Rodriguez Forges,01168,Shirt - Hit,Clothing,Shirt,2024-01-11,2024-01-17,317.38,52.53,7,Valerie,Gray,jorgecobb@hotmail.com,100.668.9041x728,Reyes-Smith
+Europe,France,State2,52232 Henry Point,20820,Tablet - Chance,Electronics,Tablet,2024-01-03,2024-01-09,162.89,64.99,3,Justin,Herrera,michelle83@yahoo.com,+1-994-004-1084x791,Russell-Lee
+Asia,India,Maharashtra,053 Coffey Mills Apt. 289,17704,Shirt - Drive,Clothing,Shirt,2024-05-24,2024-06-02,540.22,85.5,9,Sandra,Smith,david57@hotmail.com,9783028010,Bush and Sons
+Europe,UK,State2,41952 Sarah Greens Suite 786,60025,Chair - Want,Furniture,Chair,2024-04-26,2024-04-29,1966.99,341.59,9,Keith,Stephenson,thompsondarlene@peters.com,001-578-037-8912x13974,Howell Ltd
+North America,USA,Texas,557 Vargas Inlet Apt. 842,75987,Couch - Word,Furniture,Couch,2024-04-03,2024-04-13,21.13,12.01,2,Patricia,Smith,dknight@hotmail.com,528-986-0610x6567,"Powell, Johnston and Flores"
+North America,Mexico,State1,65276 Sara Manor,87517,Table - Effect,Furniture,Table,2024-03-31,2024-04-02,422.91,265.08,2,Ann,Evans,michaelreid@ramirez.org,(964)447-7250,Avila-Watson
+Europe,Germany,Hamburg,48004 Shawn Crossroad,40846,Couch - Night,Furniture,Couch,2024-04-19,2024-04-24,445.62,108.27,6,Daniel,Rivera,uburke@morgan.org,6279602425,"Lopez, Manning and Santana"
+North America,Canada,State2,295 Howard Forges,11323,Shirt - Local,Clothing,Shirt,2024-01-24,2024-01-30,165.89,87.17,3,Marco,Medina,rperez@buck.org,(629)917-2174x29220,Barajas and Sons
+North America,Mexico,State1,53926 Munoz Mountains,01150,Tablet - Five,Electronics,Tablet,2024-02-03,2024-02-10,960.19,166.06,9,Randy,Andersen,maddoxdavid@gmail.com,001-280-485-0220,Marshall-Pennington
+North America,Canada,State1,59379 Miller Circle,00771,Mobile - Kid,Electronics,Mobile,2024-02-06,2024-02-12,3408.44,447.2,10,Brian,Smith,jgarcia@gmail.com,647-185-5940x79923,"Richards, Rodriguez and Allen"
+Asia,India,Telangana,316 Owens Tunnel,70555,Couch - A,Furniture,Couch,2024-04-20,2024-04-22,247.78,197.96,2,Kayla,Mitchell,scott43@yahoo.com,1945391177,Acosta-Madden
+Europe,Germany,Hamburg,612 Kristen Estate Apt. 578,07702,Jacket - Later,Clothing,Jacket,2024-06-12,2024-06-21,1289.27,184.26,10,Richard,Jones,davidjones@myers.net,+1-706-763-5322x37185,"Patterson, Brown and Thompson"
+Asia,Japan,State1,856 Rhonda Corner Apt. 429,41338,Couch - Pay,Furniture,Couch,2024-03-01,2024-03-05,715.27,408.3,2,James,Williams,xgreer@hudson.org,001-231-324-6598x669,Melton Group
+Europe,Germany,Berlin,78376 Hudson Junctions Apt. 820,12854,Couch - Detail,Furniture,Couch,2024-02-19,2024-02-28,659.29,123.53,8,Corey,Hill,klara@patterson.com,(127)245-5337x565,Fischer-Nichols
+North America,Canada,State2,622 Olsen Ports Suite 510,40717,Chair - Wonder,Furniture,Chair,2024-05-29,2024-06-05,848.24,232.11,6,Richard,Taylor,klane@murphy-ferguson.com,206-276-7293,"Harrison, Jenkins and Rice"
+Europe,Germany,Berlin,421 Barbara Hollow Suite 502,19813,Table - Sister,Furniture,Table,2024-05-04,2024-05-08,1509.1,386.29,5,Kristin,Carter,spierce@hotmail.com,+1-045-797-2518x40703,"Johnson, Alexander and Strickland"
+Asia,Japan,State1,37209 Stewart Stravenue,52236,Couch - Drug,Furniture,Couch,2024-07-24,2024-07-27,1053.1,282.51,6,Tracy,Cannon,fosterrichard@gmail.com,+1-286-301-1220x08484,Davis Group
+Europe,UK,State2,36796 Stacey Pass,22309,Couch - Card,Furniture,Couch,2024-05-30,2024-06-07,960.77,314.23,4,Sheena,Vazquez,ocummings@gmail.com,001-360-549-4692x085,Mejia-Kane
+Europe,France,State1,24951 Neil Views,86102,Chair - Whose,Furniture,Chair,2024-06-11,2024-06-19,1416.22,287.93,7,Tanya,Baxter,nolankelly@alvarez.com,+1-038-890-4410,Carroll-Flowers
+North America,USA,California,513 Lee Roads Apt. 483,63063,Jacket - Father,Clothing,Jacket,2024-01-24,2024-01-27,2664.11,420.01,10,Kyle,Flores,bobbyfowler@weeks.com,(471)778-4019x0271,Allen-Bailey
+North America,Canada,State2,1158 Coleman Union,68312,Shirt - Interview,Clothing,Shirt,2024-07-23,2024-08-01,348.47,160.94,3,Tiffany,Rodriguez,lgonzales@hotmail.com,001-833-261-7050x583,"Hansen, Warner and Webb"
+North America,USA,New York,5728 Wright Garden Apt. 998,21878,Jeans - House,Clothing,Jeans,2024-03-14,2024-03-21,1613.1,326.04,8,Justin,Hughes,mcdonaldkimberly@rogers-williams.com,+1-466-879-3030,Kelly-Ryan
+Asia,India,Karnataka,76698 Jonathan Cliff Suite 025,16987,Shirt - Civil,Clothing,Shirt,2024-07-19,2024-07-23,478.38,231.96,3,Nancy,Wood,prodriguez@gmail.com,+1-730-897-2073,Harris-Santana
+North America,Mexico,State2,84252 Delgado Loaf,26508,Mobile - One,Electronics,Mobile,2024-03-05,2024-03-12,1264.8,289.44,5,Aaron,Morrison,jsolomon@williams.com,(344)730-5777,Leon-Harrison
+Europe,France,State2,65965 Powell Motorway Suite 409,80376,Tablet - Between,Electronics,Tablet,2024-06-14,2024-06-16,3558.33,493.35,10,Jennifer,Gray,keithadams@gilbert.com,(426)537-9322,Byrd PLC
+Asia,China,State1,0547 Robert Track,15445,Couch - Third,Furniture,Couch,2024-02-04,2024-02-06,300.11,354.64,1,Matthew,Kramer,velezmark@park.com,(008)026-5893x47597,"Jones, Green and Riggs"
+Europe,Germany,Berlin,7192 Justin Lodge,62366,Mobile - Treat,Electronics,Mobile,2024-03-19,2024-03-27,1413.06,203.19,10,Ashley,Meyers,tarapage@yahoo.com,+1-643-203-1726x6528,Flores PLC
+Europe,France,State2,724 Benjamin Bypass,90836,Couch - Change,Furniture,Couch,2024-04-30,2024-05-05,477.95,242.69,3,Nicole,Leonard,payneelizabeth@torres.biz,5190854327,Ryan-Baker
+Europe,France,State2,335 Kirk Forge,50490,Laptop - Understand,Electronics,Laptop,2024-02-14,2024-02-18,37.4,15.69,3,Carmen,Farmer,davisbrian@johnson.org,187.810.4802,Best-Harris
+Asia,Japan,State2,929 Christy Forks Apt. 437,55178,Jeans - New,Clothing,Jeans,2024-03-30,2024-04-03,130.04,77.24,2,Roger,Sanchez,pjackson@gmail.com,122.681.5947x47053,Hale-Ramirez
+Europe,UK,State2,309 Crawford Flats,79755,Shirt - Back,Clothing,Shirt,2024-02-04,2024-02-13,1658.52,217.82,9,Seth,Gordon,grantvanessa@parker.info,(501)676-7187x76288,Petty Ltd
+Europe,France,State1,16276 Brittany Ferry Suite 667,67966,Laptop - Take,Electronics,Laptop,2024-03-25,2024-03-27,2081.78,254.1,10,Mariah,Robertson,fschneider@mayo-nguyen.com,+1-989-074-9935,Mcintosh-Reynolds
+North America,Mexico,State2,7265 James Burg Apt. 858,03730,Couch - Others,Furniture,Couch,2024-07-26,2024-08-02,377.0,489.33,1,Logan,Glass,mejiadaniel@yahoo.com,789-391-2956x51887,Taylor LLC
+North America,Canada,State1,09244 Alexandra Mission Suite 570,82612,Jeans - Be,Clothing,Jeans,2024-02-14,2024-02-17,836.27,367.79,3,Jesse,Smith,andrewgarcia@morgan.com,+1-860-742-9069x5222,Fox-Williams
+Europe,France,State1,2007 Andrew Dale,34799,Jacket - Dream,Clothing,Jacket,2024-03-14,2024-03-17,794.54,241.5,4,Kristen,Conway,jordanballard@yahoo.com,(374)057-1446x956,Jacobs-Nicholson
+North America,USA,New York,54453 Rivera Circles Suite 668,70815,Jacket - Resource,Clothing,Jacket,2024-07-11,2024-07-17,252.12,35.86,10,Elaine,Barnes,william48@chase.net,(267)366-4853x20775,Williams-James
+Asia,China,State2,26983 Turner Well Suite 958,04652,Jeans - Network,Clothing,Jeans,2024-07-01,2024-07-08,1143.92,182.93,7,Michael,Hines,lauren50@hotmail.com,(846)720-0734,Glass PLC
+Europe,France,State1,95450 Anna Burgs Apt. 625,73782,Tablet - Consider,Electronics,Tablet,2024-03-17,2024-03-23,1085.53,137.62,10,Victoria,Rodriguez,hannahfields@riddle-johnson.com,+1-143-531-2794,"Williams, Mcdonald and Perez"
+North America,USA,New York,11123 Johnston Harbor Apt. 652,60888,Tablet - Sport,Electronics,Tablet,2024-03-31,2024-04-06,174.28,23.38,10,Lisa,Hernandez,zescobar@hotmail.com,(108)573-8385x545,Christensen PLC
+Asia,Japan,State1,351 Thomas Hollow,45592,Table - Be,Furniture,Table,2024-04-10,2024-04-14,1266.15,147.68,10,Maria,Edwards,whale@taylor-lopez.com,(733)746-1215x75626,"Sherman, Davila and Yates"
+Asia,Japan,State1,187 Moore Radial Apt. 693,11489,Shirt - Even,Clothing,Shirt,2024-02-09,2024-02-13,998.2,191.19,8,Carrie,Reynolds,sandraharper@graham.com,505-998-2267x3123,Mullins Inc
+North America,USA,Texas,42025 Richard Lakes Apt. 282,95181,Tablet - Fast,Electronics,Tablet,2024-03-29,2024-03-31,2628.95,492.2,6,John,Sanchez,xcox@gray-lopez.org,154-904-4318,"Gillespie, Schmidt and Johnson"
+North America,USA,Texas,02977 Erika Coves,42534,Table - Today,Furniture,Table,2024-03-19,2024-03-24,1902.39,365.74,8,Alfred,Thomas,yjacobs@lamb-browning.com,(816)291-0873,"Evans, Graham and Gilbert"
+North America,Mexico,State2,9157 Erin Mews,63945,Tablet - Ten,Electronics,Tablet,2024-03-01,2024-03-07,52.84,35.74,2,Daniel,Johnson,cfreeman@carter.com,(304)450-0202x683,Garcia PLC
+Europe,France,State2,502 Shaw Mission Suite 030,36178,Jacket - Opportunity,Clothing,Jacket,2024-07-10,2024-07-15,1731.2,344.92,7,Alan,Norman,ricky75@garrett-herrera.com,688.101.3827,"Salazar, Eaton and Garner"
+Europe,Germany,Hamburg,34601 Moore Alley,13416,Chair - Consider,Furniture,Chair,2024-01-28,2024-02-03,1095.86,197.18,8,Jimmy,Sandoval,laura20@singh.biz,163.603.8917x36907,Savage LLC
+North America,Mexico,State1,00521 Hale Courts,07101,Tablet - So,Electronics,Tablet,2024-07-17,2024-07-24,1721.71,309.14,7,Tammy,Gentry,hamiltonjoseph@yahoo.com,8951237085,"Mccarthy, Wong and Patterson"
+Europe,France,State2,4569 Thomas Locks Suite 561,79149,Chair - Be,Furniture,Chair,2024-02-12,2024-02-18,1677.78,201.67,10,Jacob,Patterson,scottnavarro@watts.net,626.395.6126x67830,"Molina, Dean and Lindsey"
+North America,USA,New York,402 Jeff Shoal Suite 614,39445,Jacket - Hotel,Clothing,Jacket,2024-05-21,2024-05-26,1273.55,175.33,9,Kristin,Blackwell,ucoleman@smith.com,761-421-5248,Clark-Garcia
+Asia,China,State1,7046 Bennett Port Suite 987,03364,Shirt - Dream,Clothing,Shirt,2024-02-13,2024-02-16,160.24,211.51,1,Javier,Arnold,johnsonamber@vega-knapp.com,(315)922-9127x0659,"Sanders, Schmidt and Fisher"
+North America,Canada,State2,2911 Jackson Passage,21063,Tablet - Dog,Electronics,Tablet,2024-04-18,2024-04-24,317.55,104.61,5,Juan,Martinez,millerdanny@silva.com,578.984.9749x9799,Williams LLC
+Asia,India,Karnataka,1148 Gibbs Mall,47155,Shirt - Art,Clothing,Shirt,2024-05-02,2024-05-05,81.78,52.33,2,Zachary,Davis,reynoldstravis@owen.com,(316)312-9755x72616,Spears and Sons
+Europe,UK,State1,93899 Philip Expressway,91949,Tablet - Picture,Electronics,Tablet,2024-04-28,2024-05-02,615.93,154.34,5,Brandon,Gallagher,fjones@lopez-vega.com,633-613-1798,"Jenkins, Freeman and Castro"
+Asia,Japan,State2,72954 Black Isle,66498,Table - Girl,Furniture,Table,2024-04-13,2024-04-20,278.0,89.36,5,Jeffrey,Neal,hernandezmelissa@robinson.com,001-517-419-2581x47621,"Johnson, Abbott and Collins"
+Asia,China,State2,99454 Mallory Stream Suite 531,41651,Chair - Tell,Furniture,Chair,2024-03-11,2024-03-17,301.69,97.19,5,Peter,Parsons,jacobsonlaurie@ross.org,9645987240,"Lopez, Shepherd and Martinez"
+Asia,Japan,State2,1668 Carl Ford,28785,Tablet - Or,Electronics,Tablet,2024-03-09,2024-03-18,133.73,80.5,2,Sydney,Ruiz,sjohnson@gmail.com,734-024-2224,"Rodriguez, Webb and Frank"
+Asia,Japan,State1,36540 Patricia Courts,85542,Couch - Between,Furniture,Couch,2024-07-22,2024-07-28,33.64,27.08,2,Krystal,Roberts,kathleen84@caldwell.com,(435)094-7651,"Perez, Pacheco and Jenkins"
+North America,Canada,State2,0994 Kyle Keys Apt. 989,93127,Laptop - Buy,Electronics,Laptop,2024-07-18,2024-07-22,373.41,467.12,1,Calvin,Lee,larry24@branch-cohen.org,8261103565,Sandoval-Whitney
+Europe,Germany,Hamburg,23766 Aguilar Manors,79137,Table - Practice,Furniture,Table,2024-04-13,2024-04-15,2668.94,356.73,9,Glen,Jackson,jessereyes@hotmail.com,118-390-9342x424,Curry PLC
+Europe,France,State2,6334 Stephanie Glens,27854,Shirt - Able,Clothing,Shirt,2024-05-27,2024-06-06,41.19,11.62,4,Thomas,Garcia,qorr@hotmail.com,8654243826,Nunez-Hunt
+Europe,Germany,Hamburg,95288 Lynch Neck Apt. 396,79806,Jeans - Yet,Clothing,Jeans,2024-02-21,2024-02-28,814.56,206.3,5,Morgan,Henderson,marcusdavis@yahoo.com,(504)718-8300x9954,"Rivera, Smith and Adams"
+North America,USA,Texas,966 Jordan Radial Suite 706,92355,Jeans - Century,Clothing,Jeans,2024-07-16,2024-07-19,2102.84,382.62,8,Daniel,Graves,fsilva@howell-odonnell.com,3847156756,Lewis-Hill
+Asia,India,Karnataka,16744 James Square Apt. 596,75930,Laptop - Lay,Electronics,Laptop,2024-05-06,2024-05-11,1524.9,350.98,5,Zachary,Smith,katherine05@yahoo.com,(937)540-2428x61789,Delgado Inc
+North America,Mexico,State2,0385 Patterson Extensions,99535,Chair - Computer,Furniture,Chair,2024-05-08,2024-05-17,206.77,78.57,4,Nicholas,Rivas,phodges@lucas.biz,+1-063-585-3010,Martinez-Haley
+North America,Mexico,State1,519 Aaron Hill Suite 277,46412,Table - Speech,Furniture,Table,2024-01-31,2024-02-03,2195.3,325.27,9,Alexandria,Blake,paulperry@dougherty.biz,444.394.6896,Gonzales PLC
+Europe,Germany,Bavaria,35761 Klein Summit,06768,Chair - Small,Furniture,Chair,2024-04-04,2024-04-11,138.47,208.7,1,Shane,Robinson,wturner@murray-patterson.biz,(636)785-0898,Garcia Inc
+North America,Mexico,State2,443 Combs Station Suite 295,25438,Jacket - Who,Clothing,Jacket,2024-07-08,2024-07-12,771.79,124.16,10,Sean,Stevens,riverskristen@yahoo.com,(768)740-4207x6751,Baker-Simpson
+North America,USA,Texas,3309 Kristina Row Apt. 940,54114,Shirt - Foot,Clothing,Shirt,2024-06-21,2024-06-30,262.89,32.44,10,Nathan,Kelly,juliebowen@sanchez-bird.com,+1-653-523-2660x0047,Gonzalez-Davis
+Asia,India,Telangana,561 Carol Track Suite 511,72278,Shirt - Air,Clothing,Shirt,2024-01-31,2024-02-06,304.15,233.53,2,Cristian,Tanner,rcobb@simmons-collins.com,761.868.7047x9666,Brown and Sons
+North America,USA,California,5995 Alison River Apt. 423,91157,Laptop - Officer,Electronics,Laptop,2024-02-27,2024-03-03,588.38,404.18,2,Jesse,Blair,shenderson@stewart.com,+1-862-214-0513x186,"Mendez, Yang and Joseph"
+North America,Mexico,State2,89147 Jackson Motorway,39721,Chair - However,Furniture,Chair,2024-01-13,2024-01-23,447.14,167.58,3,Michelle,Carey,markbaker@smith.com,001-387-351-8664x7741,Washington-Hayes
+Asia,India,Karnataka,25853 Lester Manor,42218,Laptop - Democrat,Electronics,Laptop,2024-02-05,2024-02-08,238.6,144.21,2,Amanda,Miller,dana17@guzman.org,9841286558,Sellers Inc
+Asia,Japan,State2,83193 Patel Ports,12520,Shirt - Those,Clothing,Shirt,2024-02-12,2024-02-21,1135.23,463.58,4,Amy,Moran,haneysusan@fuentes.com,292-421-9597x309,Murray-Chang
+Asia,Japan,State2,3411 Cummings Corners,26275,Mobile - Simply,Electronics,Mobile,2024-02-09,2024-02-18,17.14,13.11,2,John,Cook,james01@yahoo.com,030.440.7781,Brown LLC
+Asia,Japan,State2,9845 Bryant Streets Suite 345,40291,Couch - Remain,Furniture,Couch,2024-02-08,2024-02-17,263.77,111.02,3,David,Grant,thomassheila@adams.com,+1-106-166-9100x822,Jensen Ltd
+North America,Canada,State2,268 Edwin Corner Suite 562,85748,Mobile - Red,Electronics,Mobile,2024-04-07,2024-04-09,736.47,98.2,10,Kimberly,Houston,anthonylee@yahoo.com,910.059.3257x2287,Marsh Inc
+Asia,Japan,State2,8597 Jonathan Field Suite 129,46330,Table - Appear,Furniture,Table,2024-03-19,2024-03-21,717.29,125.46,9,Christopher,Cook,erica80@spears.biz,6048022406,Thomas Inc
+North America,USA,New York,950 Jonathan Corner Suite 664,27270,Couch - Stay,Furniture,Couch,2024-05-19,2024-05-29,748.45,237.47,4,Austin,Lester,ryan23@hotmail.com,+1-788-876-5699,Tanner-Baker
+Asia,China,State1,2290 Victoria Union,95779,Mobile - Themselves,Electronics,Mobile,2024-04-02,2024-04-06,1315.45,253.78,8,Miranda,Hawkins,timothy94@mullins.org,+1-038-035-1489x538,Harris Ltd
+Asia,India,Karnataka,7905 Kyle Crossroad,74005,Table - Concern,Furniture,Table,2024-04-22,2024-04-27,731.87,133.18,7,John,Howard,owells@wilkins.com,(670)848-8686,Jones-Dawson
+Europe,Germany,Bavaria,8228 Jennifer Alley,15021,Shirt - They,Clothing,Shirt,2024-05-08,2024-05-18,159.68,87.44,3,Alison,Moore,bobbyvillanueva@hotmail.com,684-676-7809x64583,Barker-Hernandez
+North America,USA,California,13531 Morris Key Suite 928,92254,Tablet - Media,Electronics,Tablet,2024-04-14,2024-04-23,2134.2,294.08,10,Cindy,Hill,christopher14@hotmail.com,(267)511-9976x4534,"Campbell, Nguyen and Andrews"
+North America,Mexico,State2,641 Alexander Rapid Suite 300,74651,Mobile - Position,Electronics,Mobile,2024-06-06,2024-06-13,190.71,58.05,4,Stephanie,Bell,conleyrandy@hood.com,001-722-422-8483,Cobb-Jones
+Asia,China,State1,0180 Smith Ford Apt. 480,09936,Laptop - Focus,Electronics,Laptop,2024-03-06,2024-03-15,287.21,446.34,1,Mary,Cook,xadkins@ross.com,446-053-9260x96746,James-Tran
+North America,Canada,State1,4991 Carol Drives,93640,Table - Property,Furniture,Table,2024-02-23,2024-02-27,2291.18,362.71,8,Alyssa,Jarvis,rrodgers@gmail.com,502.155.3830x77558,Taylor-Soto
+Europe,Germany,Berlin,95678 Roberts Locks Apt. 789,03433,Mobile - Chair,Electronics,Mobile,2024-02-04,2024-02-06,328.9,76.89,5,Marie,Greer,lawsoncalvin@brooks-jones.org,+1-441-492-5316x49828,Hughes Group
+Europe,France,State1,7656 Aguilar Camp Suite 055,40214,Chair - Song,Furniture,Chair,2024-04-04,2024-04-10,727.96,86.83,10,Jessica,Baker,jeffrey68@sandoval-garcia.biz,001-220-949-0763,"Norman, Rogers and Hudson"
+North America,USA,New York,00115 Ford Walks Apt. 494,32009,Shirt - Fire,Clothing,Shirt,2024-02-13,2024-02-16,2247.34,429.92,7,Elizabeth,Cardenas,wanderson@yahoo.com,856.413.5474x168,Clark-Wheeler
+Asia,Japan,State2,28555 Mary Spring,98788,Table - Get,Furniture,Table,2024-05-25,2024-05-27,1749.09,370.73,7,Brandi,Faulkner,tburgess@yahoo.com,(816)602-8413x623,Lewis-Ortega
+Europe,France,State1,6971 Blair Park,88245,Shirt - Different,Clothing,Shirt,2024-04-27,2024-04-29,2100.46,490.29,7,Brittany,Le,david55@peterson.info,560-170-3961x0175,Smith-Smith
+Europe,UK,State1,7949 Tracy Meadows,92346,Couch - Power,Furniture,Couch,2024-01-13,2024-01-21,2632.54,406.76,8,Carla,Raymond,erin62@gmail.com,001-593-896-7635x3673,"Mathis, Chang and Gonzales"
+Asia,China,State2,28834 Tammy Fort Suite 139,01458,Mobile - Hold,Electronics,Mobile,2024-05-18,2024-05-28,252.44,349.65,1,Charles,Lopez,frederick49@gmail.com,(635)796-7148x03007,"Rose, Russell and Burns"
+Asia,India,Maharashtra,260 Terri Junctions Apt. 637,78003,Chair - Report,Furniture,Chair,2024-03-29,2024-04-01,169.47,245.09,1,Sonya,Zimmerman,oliviashields@myers.com,+1-232-142-5261x19789,Schroeder-Kim
+North America,Canada,State1,7446 Graves Falls Suite 544,10516,Table - Sure,Furniture,Table,2024-02-26,2024-03-01,606.76,100.62,7,Daniel,Davis,lewissandra@gmail.com,052.038.8193x76841,Patrick-Grimes
+North America,Canada,State1,01483 John Grove,08321,Shirt - Not,Clothing,Shirt,2024-04-18,2024-04-26,1116.76,270.15,6,Rachel,Rodriguez,amberpruitt@gmail.com,087.647.7090,Crosby-Green
+Europe,UK,State1,2950 Fisher Orchard Apt. 621,65904,Shirt - Know,Clothing,Shirt,2024-07-06,2024-07-13,228.92,262.22,1,Dylan,Campbell,douglasdakota@yahoo.com,001-303-264-5649,Rodriguez-Stephens
+Europe,Germany,Bavaria,53906 Flynn Port Apt. 970,30577,Table - Laugh,Furniture,Table,2024-06-30,2024-07-09,213.19,30.03,10,Kenneth,Rogers,hfleming@jones.com,682.967.0742,Rodriguez-Salazar
+North America,Mexico,State1,252 Flynn Dam Apt. 169,96835,Jacket - Buy,Clothing,Jacket,2024-05-08,2024-05-13,988.87,490.81,3,Sarah,Johnson,laura80@gmail.com,+1-335-838-4391x065,Jones and Sons
+Asia,Japan,State2,6935 Anthony Estates Apt. 401,20232,Jacket - List,Clothing,Jacket,2024-04-02,2024-04-07,580.85,167.03,4,Rhonda,Sanchez,michael97@lane.org,177.170.3056x870,York-Castillo
+North America,Mexico,State2,51648 Kathleen Roads Suite 337,50987,Chair - Walk,Furniture,Chair,2024-04-27,2024-04-30,801.78,179.16,6,Angelica,Wilson,qellis@yahoo.com,0643459731,Anderson Ltd
+North America,USA,Texas,9675 Kemp Greens,45102,Jacket - Purpose,Clothing,Jacket,2024-07-02,2024-07-12,822.23,231.47,5,Darren,Smith,willisjaclyn@yahoo.com,001-318-156-0542x7079,Williams and Sons
+North America,Mexico,State1,10797 Parker Mission,47956,Laptop - State,Electronics,Laptop,2024-05-19,2024-05-22,263.33,201.43,2,Kelly,Paul,steven89@yahoo.com,(269)348-5403,"Robbins, Evans and Woods"
+Asia,India,Telangana,606 Cummings Stream Apt. 613,68580,Chair - Particularly,Furniture,Chair,2024-01-05,2024-01-09,443.0,83.74,8,David,Ortiz,webermichelle@yahoo.com,795.703.9962x637,"Romero, Frye and James"
+North America,USA,Texas,73512 Jackson Shore,04758,Couch - Management,Furniture,Couch,2024-03-12,2024-03-22,527.56,242.21,3,Richard,Rasmussen,james33@david.com,+1-934-460-6069x430,"Morton, Livingston and Jones"
+North America,Mexico,State1,2941 William Gardens Suite 006,35222,Chair - Inside,Furniture,Chair,2024-05-13,2024-05-16,292.78,437.18,1,Jon,Blackwell,amanda53@gmail.com,980-425-5428,"Anderson, Peterson and Medina"
+North America,Mexico,State2,55078 Pierce Route Suite 860,89464,Couch - Suffer,Furniture,Couch,2024-01-03,2024-01-10,1191.05,248.21,6,Henry,Perez,davidbarron@johnson-lam.org,001-586-639-9287x987,Wright-Wallace
+North America,Mexico,State2,2495 Thompson Viaduct,15325,Table - Collection,Furniture,Table,2024-07-20,2024-07-24,319.17,94.15,5,Thomas,Estrada,kevin60@gmail.com,288.807.0051,Harris-Salinas
+Europe,France,State2,120 Erin Street Apt. 175,39502,Mobile - Science,Electronics,Mobile,2024-01-17,2024-01-24,758.44,233.4,5,Michael,Nelson,alyssa92@hotmail.com,001-104-662-7501x526,Rose LLC
+Asia,Japan,State2,607 Carter Plains,25226,Mobile - Responsibility,Electronics,Mobile,2024-06-22,2024-06-26,232.51,126.57,3,James,Berry,pthomas@hotmail.com,+1-368-060-1457,Hill-Bryan
+Europe,UK,State1,8581 Smith Lakes,06305,Table - Phone,Furniture,Table,2024-02-29,2024-03-07,269.3,110.53,3,Jennifer,Cunningham,bcaldwell@hotmail.com,(519)201-8285,Taylor Group
+North America,Canada,State2,49379 Wagner Ramp Apt. 585,42799,Laptop - Card,Electronics,Laptop,2024-04-02,2024-04-11,3338.19,487.98,9,Lisa,Jones,mmiller@beltran.com,414.248.7396x262,Bush PLC
+Asia,India,Maharashtra,977 Kathleen Rue Suite 772,99001,Chair - Half,Furniture,Chair,2024-01-31,2024-02-09,462.29,86.47,6,Jonathan,Lee,crystalcooper@yahoo.com,+1-787-296-5715x643,"Frost, Young and Jones"
+North America,Mexico,State2,48042 Ruiz Way,55388,Jacket - Wall,Clothing,Jacket,2024-07-20,2024-07-26,3200.26,449.03,8,Susan,Sims,albert16@gomez.com,(662)254-9203,"Holland, Conley and Austin"
+North America,Mexico,State1,015 Steven Coves Apt. 722,52405,Jacket - Itself,Clothing,Jacket,2024-03-30,2024-04-08,1709.53,347.68,6,Lance,Jones,robert00@hotmail.com,842-933-5984,Larson Inc
+Asia,India,Karnataka,596 Buck Orchard,62978,Shirt - List,Clothing,Shirt,2024-04-28,2024-05-04,176.25,206.8,1,Laura,Miller,michellesmith@gmail.com,(624)736-5003,Moore PLC
+Europe,France,State1,6144 Shannon Overpass Apt. 554,86832,Chair - Character,Furniture,Chair,2024-01-07,2024-01-12,2235.73,267.95,10,Shawna,Klein,daniellemartinez@hotmail.com,920.675.4939x3439,"Johnson, Mata and Brown"
+Europe,Germany,Bavaria,528 Grant Forges,44328,Tablet - Instead,Electronics,Tablet,2024-01-08,2024-01-17,701.32,488.16,2,Stephen,Wright,johnvilla@ramirez.com,2364122474,Flores-Lewis
+Europe,France,State1,33505 Ricardo Crossroad,33077,Jeans - Age,Clothing,Jeans,2024-07-28,2024-08-05,788.35,360.82,3,Lorraine,Murphy,xerickson@nguyen-villarreal.com,001-404-224-5641,Lee-Fuentes
+Europe,France,State1,3807 Brenda Vista,33199,Table - Bar,Furniture,Table,2024-03-01,2024-03-08,2108.26,488.99,5,Lynn,Oconnor,baileyjulia@hotmail.com,001-494-197-1575x571,Hess-Foley
+Asia,India,Karnataka,6306 Julie Dale,10257,Couch - Wall,Furniture,Couch,2024-06-01,2024-06-09,1019.67,151.43,8,Emily,Salas,iyoung@gmail.com,001-076-150-4205x98685,Salinas-Thompson
+Europe,UK,State2,608 Julie Ramp,05474,Tablet - Region,Electronics,Tablet,2024-06-12,2024-06-15,249.02,111.81,3,Daniel,Miller,doconnor@hotmail.com,927.888.8189,"Griffin, Wiley and Torres"
+North America,Canada,State1,3881 Rasmussen Mountains,93263,Jeans - Despite,Clothing,Jeans,2024-01-15,2024-01-18,184.17,210.64,1,Amanda,Gomez,cgalvan@yahoo.com,+1-096-568-8267x2800,Lloyd-Huang
+Europe,Germany,Hamburg,472 Stephen Knoll,55547,Couch - Measure,Furniture,Couch,2024-03-01,2024-03-05,289.07,101.14,4,Justin,Owens,chungjeffrey@munoz-farley.net,001-999-514-5498x36714,"Freeman, Holloway and Ramsey"
+North America,Canada,State1,867 Jones Points Suite 711,56204,Couch - Impact,Furniture,Couch,2024-07-05,2024-07-11,1679.38,284.05,8,Kevin,Jordan,lori34@gmail.com,001-180-739-2002x58565,Elliott-Acevedo
+Asia,India,Telangana,3031 Simpson Point Suite 192,54985,Table - Son,Furniture,Table,2024-03-24,2024-04-02,573.39,330.37,2,Daniel,Campbell,alexandergarcia@yahoo.com,+1-025-455-0054x90809,Townsend Ltd
+Europe,Germany,Berlin,46163 James Underpass Suite 383,88483,Jacket - Peace,Clothing,Jacket,2024-03-22,2024-03-27,46.78,68.48,1,Brian,Johnson,jeffrey29@montgomery-perez.com,417.996.5466x2897,"Bradford, Morales and Ellis"
+Asia,Japan,State2,25275 Brown Expressway Apt. 302,29920,Jeans - Room,Clothing,Jeans,2024-03-16,2024-03-24,1180.03,317.72,5,Peggy,Mitchell,cmanning@gmail.com,(515)890-4182,Garcia-Obrien
+North America,USA,Texas,0812 Beth Oval Suite 479,04910,Jacket - Sport,Clothing,Jacket,2024-07-15,2024-07-17,277.28,89.8,5,Brandy,James,imiller@myers-morris.net,442-022-4824x8863,Rogers Group
+Europe,France,State1,45031 Robin Bypass Apt. 669,16463,Chair - Shake,Furniture,Chair,2024-01-28,2024-01-30,739.35,186.97,5,Samantha,French,fsmith@baker.net,001-119-925-6924,Oneill and Sons
+Europe,Germany,Berlin,1034 Juan Flat,99541,Couch - She,Furniture,Couch,2024-07-07,2024-07-10,744.83,104.97,9,Chad,Garcia,alec51@padilla.info,001-044-708-5609,Castro-Caldwell
+Asia,Japan,State1,48783 Andrew Cove Suite 564,41749,Jeans - Size,Clothing,Jeans,2024-04-16,2024-04-23,578.75,143.01,5,Thomas,Potts,emurphy@adams.com,374.499.9870,Roman Group
+Europe,Germany,Hamburg,9412 Richmond Cliffs,01065,Jeans - Pm,Clothing,Jeans,2024-03-30,2024-04-03,52.78,77.11,1,Martha,Smith,cblake@hall-jones.net,5763101089,Franklin Ltd
+Europe,France,State2,60640 Juan Highway Suite 794,74088,Mobile - Into,Electronics,Mobile,2024-05-09,2024-05-14,654.08,256.66,3,Nicholas,Reid,zachary70@hotmail.com,610.077.0177,Russell-Davis
+North America,Mexico,State1,07811 Scott Ports,92708,Table - Southern,Furniture,Table,2024-03-27,2024-03-30,721.32,411.23,2,Katherine,Collier,christina21@mitchell-miller.com,967-433-3849x65523,"Castillo, Andrews and Collins"
+Europe,France,State2,353 Nancy Throughway,07762,Jeans - Out,Clothing,Jeans,2024-02-12,2024-02-16,2780.34,445.97,8,Larry,Neal,wsims@ball.com,001-977-317-3946x2487,Parsons-Johnson
+Europe,Germany,Hamburg,653 Michelle Shoals Suite 871,34681,Chair - Series,Furniture,Chair,2024-02-29,2024-03-03,236.24,73.07,4,Jacqueline,Ritter,barbara17@myers.com,(817)357-9211x625,Mcguire PLC
+North America,USA,Texas,6463 Smith Hill Suite 570,30749,Mobile - Ago,Electronics,Mobile,2024-06-01,2024-06-05,361.65,218.15,2,Carol,Young,gdominguez@weaver.org,(552)905-0926,"Cain, Grant and Lopez"
+Asia,India,Telangana,56161 Lee Green,33580,Table - Argue,Furniture,Table,2024-01-03,2024-01-05,210.59,62.83,4,Tammy,Burgess,staceyfoley@williams.net,238.469.9086x72331,Estrada Inc
+North America,Mexico,State1,365 Hardy Cliff Apt. 218,72190,Chair - Ask,Furniture,Chair,2024-04-12,2024-04-18,33.98,42.46,1,Derek,Taylor,karenfox@yahoo.com,176-130-2364x1693,"Baker, Martinez and Rhodes"
+Asia,India,Karnataka,7640 Dylan Tunnel,76182,Tablet - Land,Electronics,Tablet,2024-07-15,2024-07-20,618.38,338.59,3,Elizabeth,Marquez,tiffanytaylor@hernandez.info,269-379-4999,Stewart Ltd
+Asia,Japan,State2,4484 Laurie Summit Suite 868,15307,Jeans - Full,Clothing,Jeans,2024-03-05,2024-03-12,1073.72,429.02,3,Monica,Stephenson,krista33@simmons.org,001-805-877-1555x906,Edwards PLC
+North America,USA,New York,59120 Blevins Freeway,61837,Shirt - Say,Clothing,Shirt,2024-03-05,2024-03-08,2913.15,383.99,10,Gary,Gutierrez,nhardy@gmail.com,584.180.2955,Schmidt-Hickman
+North America,USA,Texas,579 Gallagher Cliff,74468,Tablet - Really,Electronics,Tablet,2024-07-09,2024-07-11,811.08,462.87,2,Suzanne,Cabrera,fadams@gmail.com,736-703-8625,Hammond-Griffith
+North America,Canada,State2,233 Laura Plains Apt. 563,04704,Jacket - Increase,Clothing,Jacket,2024-06-28,2024-07-02,1719.73,340.03,8,Julia,Romero,courtneygamble@taylor.com,078-831-2736,Garcia-Martin
+Europe,France,State2,97084 Amy Glen,88767,Tablet - Head,Electronics,Tablet,2024-04-22,2024-04-27,409.22,65.29,7,Chad,Maldonado,baustin@soto.com,(955)510-0510,"Bailey, White and Kennedy"
+Asia,China,State1,62300 Robert Mission,18148,Shirt - Must,Clothing,Shirt,2024-02-14,2024-02-23,1635.48,355.32,6,David,Morris,aaronstrong@nelson.com,753.916.9280,"Torres, Medina and Scott"
+Asia,India,Maharashtra,9687 Smith Ford Apt. 454,33625,Chair - Treatment,Furniture,Chair,2024-02-13,2024-02-21,959.99,233.9,5,Caleb,Smith,lmyers@smith-jennings.com,580-151-7642x9628,Fletcher-Walker
+North America,Canada,State1,96996 Jessica Trail Apt. 152,93345,Jeans - About,Clothing,Jeans,2024-02-20,2024-02-26,445.48,102.5,7,Mark,Moore,deanmcguire@walls.com,743.540.4762x539,Davis-Howard
+Europe,UK,State2,5862 Griffin Plains,72874,Mobile - Himself,Electronics,Mobile,2024-01-19,2024-01-28,309.11,204.22,2,Amanda,Morales,birdjoshua@smith.com,+1-809-718-6142,Miller LLC
+North America,USA,California,592 Mark Underpass Suite 967,42598,Laptop - Could,Electronics,Laptop,2024-03-26,2024-04-03,4021.76,489.01,10,Sean,Greene,beckerkristen@salinas.com,627.451.1608x958,Bernard-Murphy
+Asia,India,Maharashtra,221 James Station Suite 008,26159,Laptop - Own,Electronics,Laptop,2024-06-29,2024-07-04,3055.15,423.57,10,Joseph,Reynolds,emilyreid@willis.info,611-399-7992x715,Yates Inc
+Asia,China,State2,788 Khan Drive,67788,Couch - Safe,Furniture,Couch,2024-06-01,2024-06-07,1033.15,184.49,7,Michael,Day,paynekatie@gmail.com,001-763-090-0737,Gaines and Sons
+Europe,France,State2,5744 Rodriguez Cape Suite 692,97994,Laptop - People,Electronics,Laptop,2024-04-20,2024-04-23,199.04,132.84,2,Ronald,Cruz,destiny47@yahoo.com,001-160-435-9839,"Aguilar, Carr and Logan"
+North America,USA,California,965 Cole Throughway Apt. 756,87794,Tablet - Name,Electronics,Tablet,2024-05-07,2024-05-09,308.99,254.09,2,Valerie,Arnold,nfox@yahoo.com,+1-073-071-7761x35007,"Walsh, Atkins and Yang"
+Asia,China,State2,38540 Rebecca Lodge,76738,Laptop - Movie,Electronics,Laptop,2024-07-26,2024-07-29,504.89,333.93,2,Briana,Peterson,lunajeffrey@gmail.com,+1-653-273-5514x97249,Hughes and Sons
+Europe,France,State1,7714 Sparks Isle,04876,Couch - Road,Furniture,Couch,2024-01-21,2024-01-30,1570.31,257.35,8,Brenda,Page,melvin70@gmail.com,0617413644,Taylor and Sons
+North America,Mexico,State1,89391 Tim Street,99568,Laptop - Write,Electronics,Laptop,2024-05-19,2024-05-22,1381.29,230.56,7,Kristi,Cameron,kimrichard@gmail.com,(283)056-4468,"Hill, Harrison and Myers"
+Europe,France,State1,5595 David Lodge Apt. 560,66000,Mobile - Run,Electronics,Mobile,2024-05-16,2024-05-26,1439.7,443.5,5,Tyrone,Tate,jessetaylor@yahoo.com,990.460.0823,Lambert LLC
+Europe,Germany,Berlin,022 Bryan Mills Suite 506,14156,Jeans - Instead,Clothing,Jeans,2024-05-26,2024-06-04,431.47,288.74,2,Stephen,Jacobs,ujohnson@gmail.com,120-039-3449x07697,"Guerrero, Weiss and Thomas"
+North America,Mexico,State2,333 Joy Estate,76259,Couch - Wall,Furniture,Couch,2024-03-04,2024-03-08,228.01,37.31,9,Samantha,Logan,smithmatthew@castillo.com,(008)228-3774x27054,Reyes Ltd
+North America,Canada,State2,82063 Erik Shore Apt. 126,76119,Table - Pressure,Furniture,Table,2024-05-05,2024-05-07,191.11,299.33,1,Angela,Valenzuela,xpadilla@hotmail.com,001-524-760-9606,Moss-Nichols
+Europe,France,State1,57378 Neal Mountains Suite 884,02348,Jeans - Various,Clothing,Jeans,2024-04-13,2024-04-21,394.56,219.79,2,Scott,Cochran,dstewart@yahoo.com,001-061-298-8972x84268,Moore-Burton
+Europe,France,State1,641 Johnson Junctions,26174,Shirt - Ask,Clothing,Shirt,2024-02-22,2024-02-27,1019.05,327.56,4,Michelle,Jones,cookjessica@yahoo.com,+1-803-166-4795,"Hogan, Thomas and Morales"
+North America,USA,Texas,24285 Tonya Spring,90373,Laptop - Provide,Electronics,Laptop,2024-01-25,2024-01-29,167.36,273.82,1,Joseph,Roberson,raychristopher@hawkins.info,1708671520,Owens PLC
+North America,Canada,State2,43368 Dennis Ranch Suite 724,54539,Chair - Media,Furniture,Chair,2024-06-30,2024-07-09,145.25,20.9,10,Christopher,Brown,johnsonmaria@williams.com,785-020-5025,"Garcia, Rush and Ruiz"
+North America,Canada,State2,920 Alexander Spring,23064,Shirt - Reduce,Clothing,Shirt,2024-04-22,2024-05-01,461.28,348.52,2,Christine,Blackwell,dadams@hotmail.com,001-539-659-7442x526,"Wells, Parks and Conrad"
+Europe,UK,State2,53740 Davis Field Apt. 793,58715,Tablet - Record,Electronics,Tablet,2024-04-10,2024-04-16,1922.21,485.02,6,Kristine,Hogan,hgray@hotmail.com,+1-608-557-1749x05849,"Wong, Brown and Miller"
+North America,USA,New York,035 Jackson Street,06416,Laptop - Several,Electronics,Laptop,2024-05-31,2024-06-06,120.2,155.69,1,Emily,Wallace,anthony99@hotmail.com,(324)535-2791x11108,"Hicks, Hill and Chapman"
+Asia,Japan,State1,321 Michael Ports Suite 183,07358,Jacket - Hot,Clothing,Jacket,2024-01-28,2024-01-31,1085.63,175.05,10,Lori,Gibson,heather80@dyer.biz,259-720-5548x298,"Wright, Byrd and Prince"
+North America,Canada,State2,7498 Griffin Lights,01145,Laptop - True,Electronics,Laptop,2024-07-07,2024-07-10,887.55,257.27,5,Kenneth,Silva,olsonamy@yahoo.com,+1-721-461-7275x80452,"Lin, Higgins and Thomas"
+North America,Mexico,State2,889 Lawrence Plains Suite 754,37041,Laptop - Pretty,Electronics,Laptop,2024-03-11,2024-03-19,1163.68,316.23,5,Mark,Scott,tammy34@gmail.com,929-360-5962,Griffin-Bender
+North America,USA,California,6389 Daniel Ville,37043,Jacket - Safe,Clothing,Jacket,2024-06-25,2024-07-05,582.86,292.65,3,Mckenzie,Rice,bmunoz@hotmail.com,+1-561-156-8622x30706,Alvarado-Brown
+North America,Canada,State2,22743 Brian Villages Suite 271,70872,Jacket - Government,Clothing,Jacket,2024-04-07,2024-04-15,2262.0,366.04,10,Robert,Wong,stephen56@gmail.com,121-380-7828,"Johnson, Stewart and Hall"
+Asia,China,State2,4598 Palmer Lane,30863,Mobile - Well,Electronics,Mobile,2024-07-08,2024-07-12,1531.55,423.62,5,Michael,Nguyen,millsanthony@hotmail.com,+1-825-212-8866,"Chang, Williams and Foster"
+Asia,Japan,State1,984 Amanda Estate Suite 705,20701,Table - Pattern,Furniture,Table,2024-01-17,2024-01-23,317.59,135.66,3,Bradley,Miller,lisafernandez@davis-gross.com,203.668.6427,Flowers-Austin
+Europe,Germany,Bavaria,72876 Jennifer Drive Apt. 877,74037,Mobile - Woman,Electronics,Mobile,2024-07-05,2024-07-07,1110.58,400.55,4,Jeremy,Adams,russellelizabeth@colon.com,001-573-562-3277x00453,"Price, Simmons and Weaver"
+Europe,UK,State2,73228 Cabrera Valleys,59242,Couch - Group,Furniture,Couch,2024-07-25,2024-07-27,225.84,88.09,4,Sandra,Johnson,bobby25@morgan-odonnell.net,+1-397-704-1167x881,Thornton-Harrison
+Europe,France,State1,86569 Kenneth Harbors Suite 673,27662,Shirt - Here,Clothing,Shirt,2024-06-12,2024-06-21,32.25,37.11,1,Jacob,White,justinguzman@nichols-hardin.info,0623945994,"Mueller, Mitchell and Booth"
+Europe,UK,State2,01203 Barbara Burgs Apt. 387,12443,Laptop - Collection,Electronics,Laptop,2024-06-12,2024-06-19,348.41,204.48,2,Michelle,Bennett,michaeldunn@flores.com,8015337435,Johnson-Gutierrez
+Asia,India,Telangana,2871 Howe Lakes Suite 957,91836,Jacket - International,Clothing,Jacket,2024-06-27,2024-07-07,451.1,265.76,2,Sabrina,Contreras,susan59@yahoo.com,+1-955-055-3629x171,Anderson Ltd
+North America,Canada,State2,83952 Anderson Walk Suite 207,88153,Mobile - First,Electronics,Mobile,2024-07-18,2024-07-21,797.08,171.35,6,Kim,Brewer,fosterlawrence@bishop.com,457-445-2030,Hutchinson-Krueger
+Europe,UK,State1,3088 Kevin Centers Apt. 532,95330,Chair - Strategy,Furniture,Chair,2024-02-22,2024-02-26,170.76,95.83,2,Sharon,Floyd,alec29@gmail.com,001-634-094-1218x05257,Mccoy-Hubbard
+Europe,France,State2,412 Rebecca Islands Suite 601,73074,Shirt - Owner,Clothing,Shirt,2024-05-03,2024-05-12,1541.43,193.61,9,Rachel,Miller,laurenfigueroa@madden.com,133.996.2768x6127,"Carroll, Zimmerman and Campbell"
+Europe,UK,State2,29138 Victoria Canyon,12594,Couch - Edge,Furniture,Couch,2024-04-22,2024-04-27,1942.45,440.92,5,Kelly,Villarreal,christinesampson@hawkins.net,001-196-645-2319x199,Wilson Inc
+Europe,France,State2,6831 Haley Fort,56998,Chair - Also,Furniture,Chair,2024-07-18,2024-07-20,291.51,348.43,1,Nicole,Garrett,freyterri@hotmail.com,001-171-038-9191x874,Jones and Sons
+Asia,China,State2,03449 Jordan Park,10542,Couch - Also,Furniture,Couch,2024-05-04,2024-05-11,365.13,272.11,2,Jonathan,Stone,brian77@yahoo.com,001-257-231-6316x03781,Rodriguez Ltd
+Europe,France,State1,39963 Roger Ways Suite 005,78332,Table - Better,Furniture,Table,2024-01-22,2024-01-28,775.4,468.8,2,Cathy,Powell,pparks@hotmail.com,(337)007-1580,Townsend-Vaughn
+Europe,Germany,Bavaria,633 Javier Forge,04514,Couch - Station,Furniture,Couch,2024-01-11,2024-01-18,1894.77,396.77,7,Lauren,Sullivan,justin88@hotmail.com,923.759.0972,"Simpson, Gentry and Hill"
+Asia,China,State2,585 Kelly Ways,15255,Jeans - Change,Clothing,Jeans,2024-07-22,2024-07-29,2603.59,439.61,7,Jason,Hammond,maynardsamantha@hotmail.com,(367)883-8736,Gentry-Roberson
+Asia,Japan,State2,43647 Stone Loop,55694,Shirt - Unit,Clothing,Shirt,2024-03-15,2024-03-22,1802.24,305.04,7,Rachel,Hill,racevedo@gmail.com,(371)206-3175x5297,Benton PLC
+North America,Canada,State2,81144 Mitchell Fall Apt. 436,09471,Shirt - Medical,Clothing,Shirt,2024-06-04,2024-06-06,800.75,318.78,3,Charles,Ryan,parkersamantha@rich.com,926.055.5465x42683,Martinez LLC
+Asia,India,Maharashtra,7140 Kelly Union,89191,Tablet - Hundred,Electronics,Tablet,2024-07-15,2024-07-21,1110.02,292.15,6,Joseph,Parks,melanie56@yahoo.com,0301196227,Buckley-Hahn
+Asia,Japan,State1,2173 Yates Fort Suite 095,89522,Jacket - Stand,Clothing,Jacket,2024-02-28,2024-03-07,1195.99,231.23,6,Crystal,Smith,anthony99@russell.com,+1-113-640-3484,Schmitt Group
+Asia,China,State1,06279 Marquez Ports Suite 142,78346,Jacket - Or,Clothing,Jacket,2024-04-15,2024-04-22,388.79,107.35,5,Stephanie,Scott,sjohnston@gmail.com,756-275-2800,Savage Group
+Asia,China,State2,734 Murray Shore,37799,Shirt - Brother,Clothing,Shirt,2024-06-10,2024-06-12,367.15,462.33,1,Heidi,Flores,lawrencewilson@dawson-pierce.com,(489)710-0170x78129,"Small, Barron and Higgins"
+North America,USA,California,49484 Holly Walk,38304,Chair - Federal,Furniture,Chair,2024-05-11,2024-05-17,81.03,34.39,3,Glenn,Thornton,jennifer28@bowman.com,+1-875-679-8130x26564,Sullivan-Jones
+North America,Canada,State1,187 Emily Pike,78425,Laptop - Public,Electronics,Laptop,2024-06-26,2024-06-30,550.51,67.5,10,Joshua,Randolph,hluna@zhang.com,644-611-9830x9754,"Kennedy, Clayton and Peterson"
+Europe,France,State2,237 Waller Points Suite 700,61941,Mobile - Consider,Electronics,Mobile,2024-04-27,2024-05-02,1598.82,473.57,4,Ann,Clay,john51@miller.net,8226799096,Lewis-Dennis
+Europe,France,State2,3839 Stevens Lodge Suite 682,14711,Chair - Reduce,Furniture,Chair,2024-06-06,2024-06-14,1092.8,304.04,4,Kayla,Smith,feliciamcgee@collier.org,7037808866,Luna-Hernandez
+Europe,UK,State1,834 Wheeler Spring,91628,Chair - Society,Furniture,Chair,2024-03-28,2024-04-05,64.55,24.1,3,Heather,Vasquez,rgrimes@gmail.com,+1-650-744-5657x267,Johnson Ltd
+Asia,Japan,State2,9477 Smith Valley,05790,Laptop - Indicate,Electronics,Laptop,2024-05-19,2024-05-28,19.28,15.06,2,James,Cook,brucekim@sanders.com,264.525.7330,"Hill, Ayala and Hicks"
+Europe,UK,State2,635 Ryan Junctions,19721,Shirt - Population,Clothing,Shirt,2024-01-13,2024-01-21,1756.36,370.69,7,Deborah,Nelson,irichardson@yahoo.com,001-837-990-0536x693,Molina-Wilkins
+Asia,Japan,State1,28562 Steven Turnpike Apt. 722,44674,Laptop - Daughter,Electronics,Laptop,2024-02-22,2024-02-27,3272.66,455.03,8,Karen,Clark,lisalove@hale.org,234-037-0433x3318,Hamilton-Robinson
+North America,Mexico,State1,125 Macdonald Road Apt. 473,58158,Laptop - Very,Electronics,Laptop,2024-07-18,2024-07-28,1756.68,196.66,10,Craig,Mills,woodsrobert@hotmail.com,(806)455-4421x5783,Ferguson LLC
+North America,Canada,State1,739 Boyd Lake,81338,Shirt - Major,Clothing,Shirt,2024-03-02,2024-03-06,348.61,93.23,5,James,Swanson,cynthiaarmstrong@morrison.org,833.150.3219x859,Roberts-Morris
+Europe,France,State1,50666 Little Trafficway,05327,Laptop - Thank,Electronics,Laptop,2024-06-12,2024-06-22,353.32,79.48,7,Richard,Ellis,fbutler@yahoo.com,001-986-328-9591,Yates-Chan
+Asia,India,Maharashtra,76221 Gomez Trace Suite 374,27488,Couch - Voice,Furniture,Couch,2024-01-01,2024-01-08,897.96,148.63,7,Ashley,Odom,christina94@harris.com,465-653-1708x73002,Rose and Sons
+North America,Canada,State2,66325 Douglas Mountain Apt. 223,37867,Chair - Single,Furniture,Chair,2024-02-05,2024-02-12,1983.64,384.2,8,Samantha,Hayes,simmonspeter@carpenter.org,4886607326,Bates Ltd
+North America,Mexico,State2,785 Mccoy Harbors,12476,Mobile - For,Electronics,Mobile,2024-04-28,2024-05-02,74.9,122.63,1,Todd,Jordan,greenetyler@carter-pace.com,+1-810-457-3466x9447,Ayala-Grant
+Europe,Germany,Hamburg,528 Donna Loaf,57745,Table - Structure,Furniture,Table,2024-03-23,2024-03-26,169.61,29.99,8,Melvin,Archer,tdaniels@cole.net,374.345.0968x59380,"Horne, Hall and Alexander"
+North America,Mexico,State2,6924 Kenneth Well Apt. 548,53676,Table - Indicate,Furniture,Table,2024-03-02,2024-03-05,133.01,70.59,3,Brooke,Thompson,loriparks@johnson-young.info,088-035-4694,"Morris, Hernandez and Williams"
+Europe,Germany,Bavaria,76474 Jordan Prairie,16560,Jacket - I,Clothing,Jacket,2024-06-14,2024-06-20,3463.83,446.54,10,Diane,Keith,lopezdarrell@yahoo.com,3965586819,Conway PLC
+North America,USA,New York,8933 Nathan Vista,71779,Shirt - Weight,Clothing,Shirt,2024-01-18,2024-01-26,195.78,130.62,2,Robert,Espinoza,garciajeffrey@yahoo.com,002-957-3801x01245,French LLC
+Asia,China,State1,061 Lawson Trail Apt. 365,05243,Couch - Total,Furniture,Couch,2024-06-29,2024-07-02,1187.43,193.04,7,Natalie,Rogers,martharay@kim.info,708-049-2932,Mccarty Inc
+Asia,China,State1,612 Jared Dam,10229,Mobile - Society,Electronics,Mobile,2024-05-22,2024-05-31,1648.93,232.49,8,Kathryn,Ramirez,suzannewilliams@yahoo.com,0371775885,Henry Ltd
+North America,Mexico,State1,26203 Virginia Ramp,49076,Chair - Image,Furniture,Chair,2024-03-01,2024-03-10,2560.74,474.24,6,Sherry,Jordan,jacksondavid@yahoo.com,1811239933,"Cole, Weaver and Price"
+North America,USA,California,206 Jeffrey Turnpike Suite 596,73242,Tablet - Artist,Electronics,Tablet,2024-03-11,2024-03-17,1980.92,401.09,6,Dominique,Wagner,keithjane@rodriguez.com,505-211-2036x0816,Howard-Golden
+North America,Mexico,State2,4608 Heather Parks,13897,Laptop - Stock,Electronics,Laptop,2024-04-16,2024-04-22,318.31,127.64,3,Jonathan,Brock,roger54@knight-gomez.biz,9580627456,Pugh PLC
+Europe,Germany,Bavaria,4294 Kevin Shores,81590,Mobile - Lay,Electronics,Mobile,2024-03-26,2024-04-03,864.86,149.62,7,Diane,Roberts,pspears@yahoo.com,(253)847-6691x95301,"Montgomery, Payne and Whitaker"
+North America,USA,California,74685 Dennis Tunnel Suite 297,51368,Table - Include,Furniture,Table,2024-04-20,2024-04-28,1768.42,452.83,5,Christopher,Blake,kaylafernandez@yahoo.com,3498246896,Taylor-Baird
+Europe,UK,State1,7402 Penny View,65675,Couch - Meeting,Furniture,Couch,2024-01-18,2024-01-23,1308.31,228.27,8,Stephanie,Clark,earl23@hernandez-carey.biz,0858949617,Foster Group
+Europe,UK,State2,53531 Jennifer Passage,36178,Laptop - Couple,Electronics,Laptop,2024-02-11,2024-02-18,799.54,101.31,10,Nathan,Gutierrez,keithhernandez@gmail.com,(109)129-4431,Sosa-Brown
+Asia,India,Karnataka,343 Liu Orchard Apt. 402,13171,Table - Structure,Furniture,Table,2024-04-17,2024-04-22,1060.01,466.03,3,Sarah,Simmons,christophervasquez@glenn.net,009-624-2657,"Davidson, Jones and Atkins"
+North America,Mexico,State1,4526 Katrina Hills Apt. 372,41731,Table - Natural,Furniture,Table,2024-06-18,2024-06-26,675.69,454.53,2,Lance,Adkins,james11@cordova-frazier.com,+1-050-345-5388,Shelton LLC
+Asia,India,Karnataka,7666 Amanda Plains Suite 458,59056,Chair - Culture,Furniture,Chair,2024-07-17,2024-07-27,665.63,154.79,7,Christian,Ortega,eedwards@wilkinson.net,(931)526-2107x414,Moore-Benitez
+Asia,India,Karnataka,1445 Brittany Ways,78816,Tablet - Street,Electronics,Tablet,2024-04-12,2024-04-20,314.59,56.3,7,Patrick,Torres,joseph33@gmail.com,+1-971-153-3349x729,Smith Inc
+North America,Canada,State2,434 Greene Parks,48250,Couch - Lay,Furniture,Couch,2024-06-30,2024-07-03,132.97,17.97,9,Joanne,Daniels,usims@hotmail.com,817.860.2159x92794,Davis Inc
+Europe,Germany,Bavaria,4903 David Expressway,24908,Chair - Director,Furniture,Chair,2024-06-26,2024-06-29,2121.14,439.61,7,Jermaine,Guzman,noblescott@yahoo.com,314.836.8747x774,Levine-Robinson
+North America,Mexico,State2,6007 Rivers Dam Apt. 821,24223,Jeans - According,Clothing,Jeans,2024-06-27,2024-07-03,2499.91,483.69,6,Kristin,Newman,carpentersarah@perry.net,726-439-3304x596,Walker Group
+Asia,India,Telangana,48531 James Shoal Suite 358,95790,Tablet - Over,Electronics,Tablet,2024-03-05,2024-03-11,269.46,222.56,2,Joshua,Johns,levydiane@bell-moore.com,(106)378-1704,"Hodges, Mccullough and Morales"
+Europe,Germany,Bavaria,65955 Armstrong Green,22379,Tablet - Operation,Electronics,Tablet,2024-03-28,2024-04-06,2402.82,348.99,8,Charles,Wright,clarkmelissa@browning.com,001-727-676-8777,King-Herring
+North America,Mexico,State2,1749 Brenda Forges,73298,Couch - History,Furniture,Couch,2024-03-22,2024-03-29,1772.33,404.27,7,Andrew,Kelley,ryanhenry@gmail.com,399.076.1500,Kramer-Coleman
+Asia,India,Telangana,8044 Kara Loop Suite 792,99872,Mobile - Between,Electronics,Mobile,2024-01-30,2024-02-04,89.41,112.52,1,Charles,Haney,smithjessica@davis-peck.com,904.991.5738x067,Walker Inc
+North America,USA,Texas,96102 Stephen Meadows,40550,Jacket - Position,Clothing,Jacket,2024-05-27,2024-06-01,232.72,157.45,2,Jeffrey,Thompson,cbradley@gmail.com,597-155-7932x770,Estrada-Hughes
+Europe,France,State1,732 Smith Radial Suite 856,67136,Mobile - By,Electronics,Mobile,2024-02-14,2024-02-18,2860.74,482.29,8,Andrea,Herrera,johnsonkatelyn@yahoo.com,+1-973-586-7943x36447,"Rogers, Byrd and Davis"
+Europe,UK,State1,659 Stokes Union Suite 587,86460,Laptop - Approach,Electronics,Laptop,2024-03-06,2024-03-14,109.5,173.59,1,Judith,Cruz,teresa15@yahoo.com,+1-347-450-2405x3772,Gonzalez-Burns
+North America,Canada,State2,3945 Joel Valley Suite 480,63682,Couch - Plan,Furniture,Couch,2024-01-03,2024-01-13,101.29,28.14,5,Alicia,Brooks,jessicawatson@carpenter-lopez.org,369-648-0407,"Hardy, Shelton and Adkins"
+North America,Mexico,State2,0632 Roberson Island,14048,Tablet - Do,Electronics,Tablet,2024-06-27,2024-06-29,134.4,19.32,9,Brandon,Rojas,oward@hayes.com,(746)466-0332x7399,Brown LLC
+North America,USA,Texas,941 Natalie Brooks,23968,Jeans - Matter,Clothing,Jeans,2024-04-12,2024-04-21,445.16,252.45,2,Courtney,Graham,flemingcaitlyn@gmail.com,(484)977-9738x3306,Rogers and Sons
+Europe,France,State2,7893 Johnson Valley Suite 260,24844,Mobile - Begin,Electronics,Mobile,2024-04-12,2024-04-18,701.97,239.93,4,Kathleen,Johnson,wcook@yahoo.com,7181292361,Lewis-Morris
+North America,USA,New York,984 Holly Fords Apt. 768,58945,Jeans - Travel,Clothing,Jeans,2024-03-25,2024-04-03,1085.05,442.75,3,Albert,Rangel,wriley@burton.com,064-070-7838,"Rodriguez, Lopez and Murray"
+Europe,France,State2,34857 Ryan Way,43566,Chair - Responsibility,Furniture,Chair,2024-04-27,2024-05-02,1090.37,348.44,5,Donna,Vaughn,natalie92@lopez-brown.com,178.836.4316,Schmidt-Adams
+Europe,Germany,Bavaria,4088 Barajas Radial Apt. 032,82501,Mobile - Mind,Electronics,Mobile,2024-07-20,2024-07-29,704.23,398.81,2,Arthur,Sims,tsmith@yahoo.com,(699)015-2302,Reese-Shaw
+Europe,France,State1,56540 Anthony Ranch,84736,Tablet - Policy,Electronics,Tablet,2024-06-05,2024-06-07,126.02,185.81,1,Brittany,Pratt,brockfelicia@gmail.com,(012)953-1850,Gonzalez-Smith
+North America,USA,California,068 Lindsey Centers,39947,Shirt - Age,Clothing,Shirt,2024-04-23,2024-04-26,1041.27,221.0,6,Allison,Martinez,reneebrown@evans-roberts.info,857.797.3982,Gonzalez Ltd
+Asia,Japan,State1,82723 Samuel Harbor Apt. 951,66619,Table - Experience,Furniture,Table,2024-05-07,2024-05-14,1929.6,386.99,6,Matthew,Pitts,xjennings@hotmail.com,155.903.0819x69544,"Frazier, Young and Gallegos"
+North America,Canada,State1,48849 Nicole Vista Suite 089,18356,Jacket - Site,Clothing,Jacket,2024-07-13,2024-07-16,339.38,464.05,1,Destiny,Roberts,youngmartin@yahoo.com,(955)593-5588x10822,Hughes-Leonard
+Europe,Germany,Bavaria,774 Andrews Falls Suite 412,28920,Jacket - Likely,Clothing,Jacket,2024-06-19,2024-06-22,173.78,30.57,9,Willie,Hernandez,timothyharrison@gmail.com,7045594849,Evans-Saunders
+North America,USA,California,6239 French Shoals,64540,Chair - Rise,Furniture,Chair,2024-06-10,2024-06-16,2298.68,383.36,8,David,Rivera,rachel27@griffin-hanson.com,(412)272-7653x1451,Mosley-Weeks
+Asia,India,Karnataka,54558 Kristy Knoll,47116,Table - Rule,Furniture,Table,2024-03-19,2024-03-23,623.16,425.81,2,Cindy,Rogers,hsolis@yahoo.com,+1-335-766-8089,Garcia-Escobar
+Europe,Germany,Bavaria,86043 Thomas Land,43706,Table - Heart,Furniture,Table,2024-01-04,2024-01-10,574.63,93.92,9,Erin,Hansen,garrettbeth@hall.com,001-931-608-9888x50105,Hinton-Manning
+North America,Canada,State2,26400 Gina Street,31612,Jacket - Hot,Clothing,Jacket,2024-03-17,2024-03-22,863.02,379.07,3,Jasmine,Shepard,vincentwilliams@gmail.com,+1-388-782-1889x38447,"Miller, Rodriguez and Randall"
+Asia,India,Maharashtra,420 Kerry Squares,12652,Table - Nature,Furniture,Table,2024-02-08,2024-02-17,2546.64,399.36,9,Jacob,Lopez,rcarter@gmail.com,001-644-047-8327x9663,Mejia-Reynolds
+Asia,China,State1,9924 Fox Shore Apt. 446,80436,Tablet - Letter,Electronics,Tablet,2024-05-07,2024-05-17,71.58,51.54,2,Jeff,Mcguire,christophermurphy@yahoo.com,(423)940-2690x8964,"Davis, Steele and Wells"
+Asia,China,State1,82292 Elizabeth Run,83095,Chair - Space,Furniture,Chair,2024-05-30,2024-06-03,302.61,38.33,10,Theresa,Brewer,icastro@gmail.com,3733784061,Barnes-Ferrell
+North America,Mexico,State2,8304 Murphy Lights Suite 765,60843,Table - Democrat,Furniture,Table,2024-07-18,2024-07-28,1261.75,363.56,5,Wayne,Hoffman,tannermatthew@anderson.biz,494-363-2705x614,Vasquez-Turner
+Europe,Germany,Berlin,04218 Ramos Motorway,94264,Jacket - Leader,Clothing,Jacket,2024-05-17,2024-05-21,1058.74,228.63,7,Cory,Wood,markwelch@armstrong.com,+1-056-513-3585x08143,Andrade LLC
+North America,Mexico,State2,6327 Kimberly Crossroad Apt. 381,00705,Jeans - While,Clothing,Jeans,2024-03-13,2024-03-21,1104.7,441.68,4,Richard,Mora,xwilliams@martinez.net,574-965-9905x270,Mckinney PLC
+North America,Canada,State2,3583 Larry Ways,01318,Jacket - Score,Clothing,Jacket,2024-03-10,2024-03-14,3058.88,496.04,9,Courtney,Mendoza,walkerronnie@gmail.com,+1-221-689-7453x714,Jensen-Patterson
+Asia,Japan,State2,274 Lauren Fall,54734,Jeans - Likely,Clothing,Jeans,2024-04-02,2024-04-06,19.86,23.67,1,Ronald,Bell,jeffreymorales@faulkner-morgan.com,(247)555-2672x03670,Williams and Sons
+North America,Canada,State1,687 Ronald Alley Suite 711,23809,Couch - Charge,Furniture,Couch,2024-06-25,2024-07-03,356.63,64.12,9,Christopher,Mills,mkane@gmail.com,(353)933-0548,"Edwards, Smith and Small"
+Europe,France,State2,0794 Dustin Coves Apt. 024,23653,Mobile - Father,Electronics,Mobile,2024-05-04,2024-05-07,1024.68,156.0,8,Randy,Baker,jocelyn90@gmail.com,001-041-154-8805x1093,Pitts Group
+Europe,France,State1,3305 Erickson Land,92238,Jacket - Customer,Clothing,Jacket,2024-04-20,2024-04-30,859.3,124.58,10,Kevin,Owens,laneamber@wilson-wise.com,770.217.0470,Hampton-Cummings
+North America,Mexico,State1,339 Davis Row,71158,Jeans - Bring,Clothing,Jeans,2024-03-12,2024-03-22,185.9,61.56,4,Neil,Rice,xjacobs@gmail.com,(917)393-0105x591,Padilla-Russo
+Asia,China,State2,9364 Johnson Rapids,94006,Mobile - Stage,Electronics,Mobile,2024-05-26,2024-06-03,217.18,50.15,7,Lisa,Sharp,tbell@phillips.com,001-593-570-7650x9462,"Hammond, Lopez and Love"
+Asia,China,State1,27192 Johnson Crossroad Suite 118,57662,Chair - True,Furniture,Chair,2024-01-05,2024-01-12,1432.63,207.35,9,William,Grimes,fritzolivia@graham.org,+1-194-908-1700x3276,Medina-Wong
+Europe,France,State2,7701 Lambert Mountain Apt. 682,13681,Jeans - Reflect,Clothing,Jeans,2024-03-06,2024-03-15,2137.76,368.54,8,Daniel,Rogers,ryan77@gmail.com,+1-595-691-9220x5135,"Johnson, Hickman and Pham"
+Asia,India,Karnataka,892 Williams Park Suite 167,98412,Laptop - Institution,Electronics,Laptop,2024-04-03,2024-04-12,1095.51,484.34,3,Joseph,Cochran,ilopez@gmail.com,+1-217-748-7477,"Bass, Peck and Bates"
+North America,USA,New York,843 Nathan Rapids Suite 125,19453,Laptop - Policy,Electronics,Laptop,2024-04-02,2024-04-11,331.9,375.78,1,Kendra,Kirby,terrypatricia@bowman-martinez.biz,191.969.9335x3031,Boyer-Mendez
+Europe,Germany,Hamburg,753 Mark Isle,23823,Chair - Else,Furniture,Chair,2024-07-04,2024-07-07,1065.61,290.16,6,Rodney,Jackson,kimberly74@gordon-wilson.net,(699)345-1739,"Robinson, Flores and Long"
+Asia,India,Maharashtra,786 Bullock Branch Apt. 947,49459,Table - Company,Furniture,Table,2024-02-19,2024-02-25,1038.75,248.1,5,Mary,Schneider,mark77@olson.com,124.345.3538,Riley Inc
+Asia,Japan,State2,92720 Robertson Street Apt. 695,59576,Laptop - Wish,Electronics,Laptop,2024-01-30,2024-02-05,327.81,99.71,4,Dawn,Braun,james91@herrera-wu.info,8855069439,Vaughn Group
+Asia,India,Karnataka,42797 Dean Keys,36992,Chair - Question,Furniture,Chair,2024-04-15,2024-04-17,1192.12,245.78,7,Mckenzie,Hernandez,rosaleslauren@gardner.org,+1-132-935-7538x4811,Pham-Brown
+Europe,France,State2,0164 Patrick Hollow Suite 546,21822,Couch - Behind,Furniture,Couch,2024-05-06,2024-05-10,569.95,257.33,3,Aaron,Thompson,matthewking@dean-dominguez.com,+1-394-071-7343x46609,"Porter, Wyatt and Evans"
+Europe,UK,State2,0398 Brett Ports,47355,Tablet - With,Electronics,Tablet,2024-05-12,2024-05-19,642.53,401.91,2,Daniel,Lee,greenkathryn@singh.com,(417)561-6809,Kennedy-Williams
+Europe,France,State1,1333 Myers Street Apt. 285,78787,Table - Green,Furniture,Table,2024-06-18,2024-06-28,415.7,479.46,1,Lauren,Jones,andrea79@gmail.com,+1-578-290-5249x22191,Beck-Miller
+North America,Canada,State1,141 Smith Corner Apt. 856,76161,Tablet - Question,Electronics,Tablet,2024-02-09,2024-02-11,2650.34,318.75,10,Bianca,Carpenter,robertmoore@gmail.com,(017)402-0984,"Campbell, Hudson and Lozano"
+Europe,UK,State1,5948 Hannah Drive Suite 291,32914,Jacket - Science,Clothing,Jacket,2024-04-29,2024-05-02,1458.09,478.03,4,Ebony,Bryant,gentrylarry@yahoo.com,001-915-321-8011x308,Montgomery-Gordon
+Asia,Japan,State1,42840 Dylan Stream,96809,Couch - Forward,Furniture,Couch,2024-02-23,2024-02-25,505.17,332.54,2,Samantha,Foster,obass@gmail.com,001-202-534-2386x70776,Garcia Group
+Asia,China,State1,987 Erickson Mountains,40135,Tablet - All,Electronics,Tablet,2024-04-30,2024-05-09,634.08,405.39,2,Brett,Ryan,eboyer@gmail.com,524.003.3051x097,Montgomery Ltd
+Europe,UK,State1,4265 Mcclure Mews,98141,Chair - Whose,Furniture,Chair,2024-02-26,2024-03-04,418.46,98.45,7,Lisa,Zhang,toddanthony@ashley.net,238-182-8936x32786,Yates-Brock
+North America,Canada,State2,2357 Christian Ridges,79417,Chair - Name,Furniture,Chair,2024-01-09,2024-01-12,377.73,275.47,2,Michael,Young,lmaldonado@craig.com,347-050-7077x50884,Wilkerson-Rojas
+Asia,China,State1,7686 Martinez Cliffs,31654,Laptop - Others,Electronics,Laptop,2024-04-19,2024-04-27,103.59,38.87,3,Amy,Smith,charles48@yahoo.com,001-542-259-5513x3059,"Lane, Salazar and Durham"
+Asia,India,Karnataka,10967 Cooper Spring Apt. 636,99632,Laptop - Audience,Electronics,Laptop,2024-05-16,2024-05-24,241.5,166.82,2,Michael,Jacobs,kingtravis@yahoo.com,(234)267-8703,Davis-Gutierrez
+Europe,France,State2,81718 Michael Wall,40767,Mobile - Use,Electronics,Mobile,2024-03-07,2024-03-12,1174.73,378.55,4,Emily,Harmon,stephaniewilson@gmail.com,596.373.1149x331,Schultz PLC
+Europe,UK,State2,594 Anthony Via Apt. 803,92904,Laptop - Water,Electronics,Laptop,2024-01-07,2024-01-09,1030.15,237.76,6,Robert,Payne,byrdsamantha@gmail.com,824-140-8170,"Gordon, Martin and Allen"
+Europe,Germany,Berlin,732 Juan Rest Suite 032,03201,Shirt - Center,Clothing,Shirt,2024-07-20,2024-07-22,1092.01,281.5,5,Joshua,Newman,jason34@yahoo.com,(106)510-0460,Compton-Brown
+Asia,India,Karnataka,7942 Jennifer Trace Apt. 239,47338,Shirt - Attorney,Clothing,Shirt,2024-01-05,2024-01-11,1308.55,209.31,10,Rodney,Valencia,dianeburns@gmail.com,001-898-987-8776x775,"Carter, Gonzalez and Young"
+North America,Mexico,State1,39818 Christina Row,83844,Laptop - Treatment,Electronics,Laptop,2024-01-25,2024-02-04,897.96,393.19,3,Lauren,Williams,benjaminward@hotmail.com,558-681-7341x880,Porter Group
+Europe,UK,State2,7585 Rebecca Coves,71192,Mobile - Moment,Electronics,Mobile,2024-06-05,2024-06-14,1352.86,151.73,10,Dana,Allen,antoniolester@yahoo.com,+1-339-271-9540x638,Luna-Williams
+Asia,India,Maharashtra,153 Hansen Harbors Apt. 055,89949,Couch - Former,Furniture,Couch,2024-06-12,2024-06-18,2982.35,499.63,7,Deborah,Ball,joseph07@erickson.net,892.210.0720x40947,Smith-Rowland
+Asia,Japan,State2,75780 Davis Brooks Suite 866,63871,Mobile - Soon,Electronics,Mobile,2024-01-27,2024-02-06,277.54,44.27,10,Christopher,Barnes,susanmartinez@yahoo.com,704-986-7110x1877,Casey LLC
+North America,USA,California,44307 Dennis Ville Suite 689,80922,Jacket - Start,Clothing,Jacket,2024-01-06,2024-01-12,596.08,113.32,7,Nancy,Sandoval,fischerdanielle@gmail.com,381-779-9899x246,Allen LLC
+Europe,UK,State2,30186 Sanchez Gateway,11476,Jeans - Thought,Clothing,Jeans,2024-03-03,2024-03-12,583.93,130.5,5,Lisa,Nielsen,collin12@yahoo.com,(917)003-4374x325,Mcdonald-Campbell
+Europe,Germany,Berlin,62512 David View Suite 411,15383,Jeans - View,Clothing,Jeans,2024-05-28,2024-05-30,588.77,326.76,3,Brittany,Mora,anthonysmith@wright.org,005.221.4426,"Harrison, Johnson and Hess"
+Europe,Germany,Bavaria,425 Wilson Village,54156,Shirt - Step,Clothing,Shirt,2024-06-19,2024-06-27,3274.87,448.68,9,Daniel,Jennings,jessica61@hotmail.com,553-758-2682x950,"Downs, Sanchez and Webster"
+Europe,UK,State1,23235 Watkins Views Suite 803,88275,Jacket - None,Clothing,Jacket,2024-02-11,2024-02-14,192.39,25.16,9,Jillian,Fuller,rogerssara@stewart-salas.net,973-544-2524,York-Carpenter
+North America,Canada,State1,649 Austin Meadow Suite 006,01642,Table - Score,Furniture,Table,2024-07-02,2024-07-09,562.79,96.82,7,Paul,Patel,bevans@horne.info,(537)793-8546x091,Burns-King
+North America,USA,California,2545 Carrie Cape,12635,Table - Challenge,Furniture,Table,2024-02-17,2024-02-22,96.05,14.59,8,Katelyn,Brown,meganpaul@johnson-elliott.biz,(517)431-6032,Blackwell LLC
+Europe,UK,State2,98844 Steve Ports Suite 236,12403,Mobile - Hot,Electronics,Mobile,2024-01-23,2024-01-29,373.44,124.79,4,Kristie,Porter,vswanson@yahoo.com,+1-595-781-2731x742,"Bryan, Brady and Good"
+Europe,Germany,Berlin,23936 Thomas Cove Suite 640,87836,Couch - Leg,Furniture,Couch,2024-02-11,2024-02-16,89.78,106.08,1,Joshua,Williams,elizabeth11@gmail.com,+1-638-110-5022,"Perez, Horn and Huynh"
+Europe,Germany,Berlin,595 Laura Pine Apt. 767,63614,Jacket - Night,Clothing,Jacket,2024-03-03,2024-03-12,671.17,280.37,3,Laura,White,holly33@cooley.com,001-783-969-2151x002,Woods Ltd
+North America,Mexico,State1,48696 Robinson Parks Apt. 557,33088,Tablet - Hundred,Electronics,Tablet,2024-01-01,2024-01-05,127.5,72.44,2,Daniel,Johnson,castroanita@hawkins.com,+1-950-793-3773x12973,Alexander-Martin
+Asia,Japan,State2,27590 Robert Stravenue Apt. 090,62376,Tablet - Visit,Electronics,Tablet,2024-04-16,2024-04-18,2251.55,311.08,9,Edward,Johnson,savagesherry@gmail.com,945.239.5960x23315,Harmon PLC
+Europe,Germany,Berlin,032 Alexander Plaza Apt. 609,37595,Jacket - Talk,Clothing,Jacket,2024-07-19,2024-07-21,1196.57,221.95,6,Sheila,Marshall,stephanienavarro@arroyo.com,886.758.7558x509,"Marshall, Bell and Stevens"
+Europe,Germany,Hamburg,36694 Anderson Fall Suite 518,16864,Jeans - Ground,Clothing,Jeans,2024-02-07,2024-02-16,969.07,263.46,6,Keith,Norris,laura38@cannon-nguyen.com,+1-462-176-4349x39416,Rogers-Phillips
+North America,USA,California,858 Griffin River Apt. 106,85124,Table - Step,Furniture,Table,2024-05-26,2024-06-05,946.95,164.96,8,Lisa,Kim,froberts@west.net,+1-537-701-2493x164,Scott-Johnson
