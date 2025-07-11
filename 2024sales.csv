@@ -1,4 +1,4 @@
-Continent,Country,State,Address,Zip Code,Product Name,Product Category,Product Subcategory,Order Date,Delivery Date,Cost,Unit Price,Quantity,First Name,Last Name,Email,Phone,Store Name
+Continent,Country,State,Address,ZipCode,ProductName,ProductCategory,ProductSubcategory,OrderDate,DeliveryDate,Cost,UnitPrice,Quantity,FirstName,LastName,Email,Phone,StoreName
 North America,USA,Texas,47264 Danielle Manors Apt. 212,07509,Chair - Two,Furniture,Chair,2024-01-31,2024-02-03,1185.52,481.61,3,James,King,jeremy59@hotmail.com,(807)852-5482x4218,Lane LLC
 Asia,China,State1,06445 Pearson Junction Apt. 311,18843,Table - Run,Furniture,Table,2024-03-31,2024-04-10,285.78,73.73,5,Sheryl,Moore,kayla97@hotmail.com,+1-177-633-4272x038,"Nguyen, King and Robles"
 Europe,Germany,Berlin,801 Rivers Views,05967,Couch - Nothing,Furniture,Couch,2024-05-27,2024-05-31,59.44,85.31,1,Jonathan,Espinoza,hughesvirginia@nguyen.net,(493)534-0018,"Jackson, Jones and Wells"
