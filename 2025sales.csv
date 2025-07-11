@@ -1,4 +1,4 @@
-Continent,Country,State,Address,Zip Code,Product Name,Product Category,Product Subcategory,Order Date,Delivery Date,Cost,Unit Price,Quantity,First Name,Last Name,Email,Phone,Store Name
+Continent,Country,State,Address,ZipCode,ProductName,ProductCategory,ProductSubcategory,OrderDate,DeliveryDate,Cost,UnitPrice,Quantity,FirstName,LastName,Email,Phone,StoreName
 Europe,Germany,Hamburg,8047 Kelly Orchard,82849,Tablet - Heart,Electronics,Tablet,2025-07-22,2025-07-27,2936.1,479.31,7,Bridget,Price,ybrooks@white.org,(032)735-7125,House LLC
 Asia,India,Maharashtra,08578 French Crescent,48658,Chair - Improve,Furniture,Chair,2025-07-07,2025-07-10,206.54,245.18,1,Jim,Thornton,kimberly60@carpenter.com,783-690-3034x13653,Zhang and Sons
 North America,Mexico,State2,977 Jill Unions Apt. 600,65869,Chair - Car,Furniture,Chair,2025-07-20,2025-07-23,712.35,126.8,8,Joseph,Bennett,johnwallace@gmail.com,917-443-6871x638,Hamilton-Mayer
