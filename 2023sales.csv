@@ -1,4 +1,4 @@
-Continent,Country,State,Address,Zip Code,Product Name,Product Category,Product Subcategory,Order Date,Delivery Date,Cost,Unit Price,Quantity,First Name,Last Name,Email,Phone,Store Name
+Continent,Country,State,Address,ZipCode,ProductName,ProductCategory,ProductSubcategory,OrderDate,DeliveryDate,Cost,Unit Price,Quantity,FirstName,LastName,Email,Phone,StoreName
 North America,USA,California,18196 Anthony Forge,30996,Jeans - Purpose,Clothing,Jeans,2023-02-13,2023-02-18,197.73,78.37,4,William,Johnson,lrobinson@pacheco-smith.com,001-654-235-1161x559,Figueroa and Sons
 North America,Mexico,State1,495 Janet Cape,87174,Jeans - Everything,Clothing,Jeans,2023-01-17,2023-01-19,37.45,55.91,1,Jeremy,Roberts,michellejames@reid-diaz.com,(341)928-3276x483,"Stevens, Martinez and Nielsen"
 North America,USA,New York,4139 Lewis Parks Suite 724,18802,Tablet - Reveal,Electronics,Tablet,2023-05-06,2023-05-16,641.73,118.02,7,John,Hoffman,zhurst@yahoo.com,287.101.2269,Perez Inc
